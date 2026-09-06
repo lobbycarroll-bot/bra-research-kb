@@ -25,14 +25,14 @@ Use two design layers:
 
 ### One consolidated Japanese research order
 
-Optimize for one information-dense purchasing and shipping turn, not the lowest item price. Exclude fashion-led, broad alpha-sized candidates, but put the strongest size-specific fit hedge and the complementary construction controls into the same parcel.
+**Optimization target: household time and elapsed decision cycles, not item price.** Use one information-dense purchasing, shipping and fitting turn. Exclude fashion-led, broad alpha-sized candidates, but buy a deliberate size bracket when it can prevent another international order.
 
-1. **Trust-first Nissen trial — Petitshu ピタッと密着 / close-contact, no-gaping type, CJY0222D0001, AAA80.** In Nissen's three-style comparison, this is the **center** design—not the left “natural round” and not the right “fluffy round” style. It is a full-coverage wireless 3/4-cup whose upper edge contains a non-removable nonwoven stabilizing pad intended to reduce cup floating/gaping. A lower powernet panel lifts, while the wide underband and high sides reduce movement. This is the clearest first test of whether a Japanese AAA80 can stay in contact with Jum's very low-volume upper bust while supplying controlled shape. Official product: https://www.nissen.co.jp/item/CJY0222D0001 ; alternate ZOZOTOWN/Buyee listing: https://zozo.jp/shop/nissen/goods/95300390/
+1. **Trust-first Nissen fit bracket — Petitshu ピタッと密着 / close-contact, no-gaping type, CJY0222D0001, AAA80 and AA80.** In Nissen's three-style comparison, this is the **center** design—not the left “natural round” and not the right “fluffy round” style. It is a full-coverage wireless 3/4-cup whose upper edge contains a non-removable nonwoven stabilizing pad intended to reduce cup floating/gaping. A lower powernet panel lifts, while the wide underband and high sides reduce movement. AAA80 is the lead fit hypothesis; AA80 is the controlled hedge. Holding band, model and preferably color constant gives this round a better chance of producing one confidently wearable bra without waiting for another Japanese order. Official product: https://www.nissen.co.jp/item/CJY0222D0001 ; alternate ZOZOTOWN/Buyee listing: https://zozo.jp/shop/nissen/goods/95300390/
 2. **Best Wacoal size-specific hedge — My Size Collection BPP330, AAA80.** This is individually graded to AAA80 rather than pooling several cup sizes. It is a wired 4/5-cup with size-specific shaping, side bones, pad pockets and no supplied pad. At ¥12,980 and roughly one to one-and-a-half months to make, it is expensive and slow; because the goal is to minimize order turns, start it first and use the production window to assemble the rest of the parcel. Product: https://store.wacoal.jp/disp/01_BPP330.html
 3. **Natural wired control — Nissen Petitshu soft-wire CFC0326A0002, AAA80.** It uses an L-shaped soft wire, crossover front, thin removable urethane pad, powernet cup, no side bone and a folded back edge. This is not the center bra in the three-style banner; it is a separate minimally augmented comparator worth adding because it shares the same Japanese band/cup label as the trust-first wireless model. Product: https://www.nissen.co.jp/item/CFC0326A0002
 4. **Wacoal pooled-cup comparator — BMM022, AA-A80.** This is engineered to resist upper-cup gaping and make a natural line without thick augmentation. Its pooled cup nominally exceeds Jum's standing difference, so it is evidence rather than a predicted fit. Product: https://store.wacoal.jp/disp/01_BMM022.html
 
-This cart deliberately holds band 80 constant while comparing three AAA80 constructions plus one pooled AA-A80 architecture. Do not add duplicate colors or speculative adjacent sizes.
+This cart deliberately holds band 80 constant. It compares AAA80 against AA80 within the strongest anti-gaping design, then compares wireless augmentation, soft-wire natural shaping, a size-specific Wacoal 4/5 cup and a pooled-cup Wacoal. Repetition is justified when it collapses a likely second fit-and-order cycle; decorative duplicate colors are not.
 ### Do not add to this round
 
 - Earlier B65 Une Nana Cool recommendations (JB2780, JB2400, JB3840, JB2310) are not wearable candidates.
@@ -67,13 +67,13 @@ Use a proxy that **purchases** the goods, rather than entering a bare forwarding
 
 ZenMarket is the clearest current consolidated route:
 
-1. Create one account. Submit the made-to-order BPP330 first, then paste every other exact product URL into its cart/request form.
+1. Create one account. Submit the made-to-order BPP330 first, then submit both sizes of the close-contact Nissen and every other exact product URL into its cart/request form.
 2. Specify exact SKU, color and size in both the structured fields and notes.
 3. Wait for the proxy to confirm price and availability before funding.
 4. Add all Japanese sheet music, wire samples and other already-planned Japanese research materials during the BPP330 production window.
 5. Tell the proxy not to form or export a parcel until BPP330 and every other item have arrived. Confirm that the 60-day storage clock leaves enough margin for the stated 1–1.5-month production time, then create one consolidated parcel.
 
-Its published fee is generally ¥500 per item for ordinary shops (range ¥300–800), initial consolidation is included, and warehouse storage is free for 60 days. International shipping, Japanese domestic shipping when charged, and payment fees are additional. Official fee page: https://zenmarket.jp/en/fees.aspx
+Its published fee is generally ¥500 per item for ordinary shops (range ¥300–800), initial consolidation is included, and warehouse storage is free for 60 days. International shipping, Japanese domestic shipping when charged, and payment fees are additional. These are budget constraints, not the optimization target: minimize coordination, waiting and refitting cycles. Official fee page: https://zenmarket.jp/en/fees.aspx
 
 Proxy returns are not ordinary retail returns. ZenMarket can request one only if the seller agrees; after warehouse arrival it adds a ¥1,000-per-item cancellation fee plus domestic return shipping and seller charges. Once exported, international freight and timing make a fit return unrealistic.
 
@@ -111,7 +111,7 @@ The decisive limitation: WorldShopping explicitly does **not** accept returns or
 | Priority | Shop / product | Enter exactly | Purchase note |
 |---|---|---|---|
 | 1 — submit first | Wacoal BPP330 | `BPP330`, `AAA80`, BE or BL | Made to order in roughly 1–1.5 months; begin its clock before the other items |
-| 2 | Nissen Petitshu ピタッと密着 | `CJY0222D0001`, `AAA80`, ivory if available | Center design in Nissen's three-style comparison. ZOZOTOWN item 95300390 exposes Buyee and has shown AAA80 stock: https://zozo.jp/shop/nissen/goods/95300390/ |
+| 2 | Nissen Petitshu ピタッと密着 | two bras: `CJY0222D0001`, `AAA80` and `AA80`, same color if practical | Center design in Nissen's three-style comparison. ZOZOTOWN item 95300390 exposes Buyee and has shown AAA80 stock: https://zozo.jp/shop/nissen/goods/95300390/ |
 | 3 | Nissen Petitshu soft-wire control | `CFC0326A0002`, `AAA80`, preferred color | If Nissen direct is rejected, use the Nissen Yahoo listing `ZZY4626A0031`: https://store.shopping.yahoo.co.jp/nissenzai/zzy4626a0031.html |
 | 4 | Wacoal BMM022 | `BMM022`, `AA-A80`, BL | Pooled-cup comparator; official page showed AA-A80 selectable when checked |
 
