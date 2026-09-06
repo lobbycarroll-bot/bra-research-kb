@@ -34,7 +34,7 @@ The core slate is six checkout sessions. It deliberately uses temporary capital 
 
 | Session | Merchant | Quantity | Purpose |
 |---|---:|---:|---|
-| 1 | The Little Bra Company | 3 | Petite/wide-set grading; cut-and-sew, molded and strapless architectures |
+| 1 | The Little Bra Company | 4 | Petite/wide-set grading; cut-and-sew, molded and strapless architectures |
 | 2 | Lulalu | 5 | Exact 34AAA/AA calibration and both wired/wireless padding systems |
 | 3 | Aerie | 3 | Trend-led U.S. mainstream benchmark in 34AA |
 | 4 | Shopbop | 4 | Timpa + Natori in one U.S. order with easy returns |
