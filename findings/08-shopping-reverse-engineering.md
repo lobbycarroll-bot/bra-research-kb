@@ -176,3 +176,15 @@ Record before cutting anything:
 ## Evidence notes
 
 Product claims, current prices, available sizes and stock above were read from the live official Wacoal Web Store pages on 2026-09-06. Stock and prices can change; construction descriptions and explicit size mappings are more durable than availability.
+## Wire-shape research additions (checked 2026-09-06)
+
+Jum's best loose-wire fit is confirmed as **Emerald Erin France 36**. Its published arc is 172 mm and its official scaled outline is unusually open/shallow. Jum reports that most alternatives feel too narrow and too U-shaped.
+
+| Priority | Item | Why buy it | Fit expectation | Link |
+|---:|---|---|---|---|
+| 1 | **Jimura U/C/L actual-size paper copy** | Cheapest way to overlay the whole Japanese family before paying proxy shipping for many wrong wires | Research reference; not presumed better than France | https://www.jimura.jp/product/419 |
+| 2 | **BraPartsShop Japanese L no. 4 and no. 5** | Clean experiment: no. 5 has the same 172 mm arc as France 36 but 125 mm span/65 mm depth, showing the effect of curvature at constant length; no. 4 is the shorter neighbor | Both appear materially deeper than France; buy as controls | https://braparts.theshop.jp/items/135902443 |
+| 3 | **Jimura C/L65 and C/L70** | These bracket France 36's arc at 166/180 mm and are flatter than Jimura U by the supplier's A/B measurements | Still predicted narrower/deeper than France; overlay first | https://www.jimura.jp/product/430 |
+| 4 | **Wacoal Junior CFX387** | Finished-garment specimen using a soft, shallow-curved L-shaped resin wire; A80 exists and the underband aligns with the new 78 cm measurement | Cup volume is likely too large; construction specimen, not blind fit recommendation | https://store.wacoal.jp/disp/01_CFX387.html |
+
+Do not buy Jimura U first: its smallest documented curve is longer, narrower and deeper than France 36. Do not assume “Japanese L” means the same geometry as Emerald Erin France; Japanese retail descriptions often use L to mean a low center-front/cleavage-making wire.
