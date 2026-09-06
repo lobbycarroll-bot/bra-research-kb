@@ -115,7 +115,9 @@ From armeria-marine (Japanese patternmaker):
 | Fuji | 富士山型 | Conical | Varied |
 | Plate/dish | お皿型 | Nearly flat, very shallow | **Small and shallow busts; recommended up to B–C** |
 
-**Plate/dish cups (お皿型) are essentially absent from Western retail.** The Wacoal ウンナナクール is the canonical example. Despite the nearly flat cup, it creates a décolleté. Principle: the shape of the fabric against the breast root, not projecting depth, creates the appearance.
+**Plate/dish (お皿型) describes the cup's three-dimensional profile, not a required seam direction.** A two-part vertical seam is a separate construction heuristic that often produces a shallow cup; a plate cup can in principle be seamed or moulded. The source associates an Une Nana Cool example with the plate profile, but this does **not** establish that every—or any current—Une Nana Cool SKU uses that geometry. Confirm by an explicit product statement or by measuring cup width/depth and internal layers.
+
+Current example of the distinction: Liberty 364 JB3570 visibly has diagonal-looking outer-panel lines, but Wacoal describes its structural layer as a one-piece Elc® moulded cup (エルク®成型カップ) with a 3D design. It is useful consumer-fit evidence, not a vertical-seamed plate-cup specimen.
 
 ---
 
