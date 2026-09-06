@@ -21,8 +21,8 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 | Priority | Product | Live size/stock relevant to Jum | Price checked | Construction value | Direct link |
 |---|---|---|---:|---|---|
 | 1 | **364 Bra Lace — Made with Liberty Fabric, renewed** (JB3570) | **S in stock; S = A65/B65** | ¥4,620 | Best first fit reference. Wireless, extremely light, breathable Elc® molded 3D cup, high side/back, triangular power-net plus twin-strap lift. Same alpha-size format as the known-good Pepper S and a Liberty print Jum likes. | https://store.wacoal.jp/disp/01_JB3570.html |
-| 2 | **ふゆうする / Fuyū-suru** (JB2400) | **B65 in stock**; no A65/AA65 | ¥3,960 | Distinctive wired 3/4-cup comparator. Stretchy, cloud-soft `ほわピタカップ` conforms closely and keeps a rounded shape; elastic-free back edge. Buy only if B65 is plausible. Do not describe it as an A/AA style. | https://store.wacoal.jp/disp/01_JB2400.html |
-| 3 | **Bitter Dot Cotton, renewed** (JB2780) | **B65 in stock**; no A65/AA65 | ¥4,620 | Wired 3/4 cup with a deliberately low center/gore, triangular-bra visual line, cup-lace lifting structure, and cotton-blend back. Strongest wired geometry study after Fuyū-suru. | https://store.wacoal.jp/disp/01_JB2780.html |
+| 2 | **Bitter Dot Cotton, renewed** (JB2780) | **B65 in stock**; no A65/AA65 | ¥4,620 | Strongest wired **fit** candidate: deliberately shallow cup, stretch-lace upper edge that resists gaping, low center/gore, and cotton-blend back. A small-bust specialist warns that the 65 band feels relatively tight/short. | https://store.wacoal.jp/disp/01_JB2780.html |
+| 3 | **ふゆうする / Fuyū-suru** (JB2400) | **B65 in stock**; no A65/AA65 | ¥3,960 | Distinctive wired 3/4-cup construction experiment. The stretchy `ほわピタカップ` is marketed for upper-edge gaping and added volume, but current reviews sampled were mostly larger cups. It is not verified as an A/AA or plate-cup style. | https://store.wacoal.jp/disp/01_JB2400.html |
 | 4 | **BRAGENIC Happy Bloom** (JB3840) | **B65 in stock in black**; beige B65 awaiting restock; no A65 | ¥3,630 | Wireless molded comparison. Double-Up molded cup adds volume; wide internal sheet resists lateral spread; stretch-lace upper edge. Useful to reverse-engineer *volume-building*, but not a neutral shallow-cup baseline. One color is enough. | https://store.wacoal.jp/disp/01_JB3840.html |
 | 5 | **さあ、わたし Simple** (JB2310) | **B65 in stock**; no A65/AA65 | ¥3,960 | Wired 3/4 cup with wider wire, high sides/back smoothing, side support and a thick “puffy” pad specifically in B cups. Useful engineered control, but less neutral than JB2780. | https://store.wacoal.jp/disp/01_JB2310.html |
 
@@ -40,11 +40,32 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 
 ## Recommended first order
 
-1. **JB3570 in S** — safest fit and best match to Jum's Liberty preference.
-2. **JB2400 in B65** — only if B65 is a reasonable trial size; gives the most distinctive engineered cup comparison.
-3. **JB2780 in B65** — add when the budget allows a second wired architecture.
+1. **JB3570 in S** — best-supported consumer-fit trial and the best match to Jum's Liberty preference. Current S explicitly covers A65/B65.
+2. **JB2780 in B65** — best wired fit comparison if B65 is plausible; shallow cup and stretch-lace edge, but expect a snugger 65 band.
+3. **JB2400 in B65** — useful construction experiment if the budget allows; buy for its conforming molded cup, not because it has been proven as the best tiny-bust fit.
+
+Keep **JB3840 BRAGENIC** as a lower-priority volume-building control. A detailed 364 review reports BRAGENIC floating at the upper edge on an extremely thin, small bust while 364 did not.
 
 Do **not** buy two colors of one construction for research. One garment from each architecture produces more information than duplicate colorways.
+
+## Japanese consumer-fit evidence
+
+The consumer evidence is unusually consistent for **364**:
+
+- A B65 wearer chose S and reported less upper-cup gaping: https://review.rakuten.co.jp/review/review/item/1/279405_13747748/1.1/
+- An outward-set, small-bust wearer in S reported no cup gap and called it a small-bust bra: https://shopping.yahoo.co.jp/products/z4emucb2u5
+- Multiple very thin or post-nursing reviewers, including people with no tissue to scoop, report that 364 wraps the breast without the upper edge floating. One specifically says BRAGENIC floated while 364 did not: https://review.rakuten.co.jp/item/1/356121_10001147/1.1/
+- A lifestyle reviewer independently highlights that even a very small bust does not gape at the top and that the result is natural rather than heavily pushed up: https://lee.hpplus.jp/column/3033496/
+
+For **Bitter Dot Cotton**, small-bust specialist Feast says the cup is shallower than typical bras, the stretch-lace edge is less likely to float, and the 65 band feels relatively tight: https://feast.tokyo/blogs/news/unenanacool-fb2023
+
+For **Fuyū-suru**, Une Nana Cool markets the product to people whose cup edge floats and who want added volume. That is relevant, but it is manufacturer/PR evidence and the live range starts at B65: https://www.une-nana-cool.com/blog/202305/-youtubefuyousuru.php
+
+### Interpretation limits
+
+- These are fit anecdotes, not controlled measurements. They establish a strong first-buy signal, not a universal guarantee.
+- Older 364 reviews use older alpha-size mappings. Use the current product page for the current JB3570 mapping: **S = A65/B65**.
+- “Asian-market” is useful here because the size range and geometry target the right population; ethnicity alone does not determine breast shape. Jum's actual measurements and observed fit remain the deciding evidence.
 
 ## Ordering routes
 
