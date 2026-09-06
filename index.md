@@ -23,6 +23,7 @@
 | `findings/06-patterns-books.md` | Patterns, textbooks, schools and pattern companies |
 | `findings/07-asian-vs-western.md` | Regional-market hypotheses to test rather than assume |
 | `findings/08-shopping-reverse-engineering.md` | Current fit architecture, purchase ladder, Wacoal/Liberty choices and home-build plan |
+| `findings/09-japanese-size-conversion.md` | Measurement-based Japanese sizing; band 80 correction and cup-label limits |
 
 ## Standing Research Instructions
 
