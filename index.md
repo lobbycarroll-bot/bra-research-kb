@@ -22,6 +22,7 @@
 | `findings/05-draping.md` | Draping methods for bras and corsets |
 | `findings/06-patterns-books.md` | Patterns, textbooks, schools, pattern companies |
 | `findings/07-asian-vs-western.md` | Hypothesis: do Asian makers have different defaults? |
+| indings/08-shopping-reverse-engineering.md | Live Une Nana Cool shortlist, Japanese consumer-fit evidence, sizing corrections, and ordering routes |
 
 ## Standing Research Instructions
 
