@@ -5,18 +5,18 @@
 ## Research target
 
 - **Fit reference supplied by Steve:** Pepper, size S, style BRA036, RN 174794
-- **Target body:** underbust 65, low cup volume, shallow/wide-set breast root, small Asian frame
+- **Target body:** latest direct measurements 78.0 cm snug underbust and 81.5 cm standing/apex bust; Wacoal band 80; cup letter unresolved; low-volume shallow/wide-set is a fit hypothesis
 - **Goal:** buy Asian-market garments for fit and construction study. The ordering service is only a logistics choice.
 
 ## Critical sizing correction
 
 Current Une Nana Cool product pages do **not** support the earlier claim that `ふゆうする` is sold in 65AA or 65A. Its live selector starts at **B65**. `ビタードットコットン`, `さあ、わたし`, and most other band/cup-sized current styles also start at B65.
 
-The leading first-fit candidate **if Jum measures into Japanese A65/B65** is the current **364 Bra Liberty Fabric, size S**: Wacoal explicitly maps **its own S = A65 or B65**. Do not transfer the letter S from another brand.
+The earlier **364 Liberty size S** recommendation is withdrawn for Jum: the current product maps S to A65/B65, which is incompatible with a measured 78 cm underbust. The Liberty concept remains attractive, but the larger alpha sizes carry substantially more nominal cup volume and need a returnable try-on rather than a blind import.
 
 ### Cross-market size warning
 
-Japanese cup letters are based on centimeter differences and are not directly equal to US letters. Wacoal defines 65 as a 62.5–67.5 cm underbust and B as about a 12.5 cm top-minus-underbust difference. Pepper's current international chart maps its US 30A to Japanese 65B, and maps its alpha S (US 34AA/34A/34B) to Japanese 75A/75B/75C. Therefore **Pepper S does not validate Wacoal S or a 65 band**. Measure Jum's snug underbust and standing full bust in centimeters before ordering.
+Japanese cup letters are based on centimeter differences and are not directly equal to US letters. Jum's direct remeasure is now 78.0 cm underbust and 81.5 cm top: Wacoal supports band 80, while the 3.5 cm difference falls below its nominal AAA step. Record the cup as unresolved and do not revive 65/75 recommendations from cross-market label conversion.
 
 Do not rely on Wacoal search results for a size. A search for “65A” returned styles whose actual product selector had no A65. Verify the selectable size on the product page.
 
@@ -55,9 +55,9 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 - **JB3950 Night-Up** and triangle bralettes are attractive comfort pieces but lower priority for learning everyday cup/wire geometry.
 ## Recommended first order
 
-1. **JB3570 in S** — best-supported consumer-fit trial and the best match to Jum's Liberty preference. Current S explicitly covers A65/B65.
-2. **JB2780 in B65** — best wired fit comparison if B65 is plausible; shallow cup and stretch-lace edge, but expect a snugger 65 band.
-3. **JB2400 in B65** — useful construction experiment if the budget allows; buy for its conforming molded cup, not because it has been proven as the best tiny-bust fit.
+1. **Pause JB3570 sizing** — Liberty remains aesthetically preferred, but S is ruled out by the new underbust measurement; a larger alpha size should be tried only with returns because its nominal cup is larger.
+2. **Do not order JB2780 B65 for Jum** — retain it only as a construction specimen; its band is now clearly too small.
+3. **Do not order JB2400 B65 for fit** — buy only as an intentionally non-fitting construction specimen.
 
 Keep **JB3840 BRAGENIC** as a lower-priority volume-building control. A detailed 364 review reports BRAGENIC floating at the upper edge on an extremely thin, small bust while 364 did not.
 
