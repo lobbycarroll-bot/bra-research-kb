@@ -5,7 +5,7 @@
 ## Known fit information
 
 - Jum's best-fitting reference is Pepper style BRA036, labelled size S.
-- Steve reports her familiar US/Pepper band as 34 and her cup volume as between AA and A.
+- Steve reports her familiar US/Pepper band as 34 and her cup volume as between AA and A.`n- Direct remeasure on 2026-09-06: **78.0 cm snug underbust and 81.5 cm standing/apex bust** (3.5 cm difference).
 - Breast shape is believed to be low-volume, shallow and wide-set. Shape must be evaluated separately from size.
 
 ## The essential rule
@@ -22,7 +22,7 @@ Cup letters are category names within each sizing system; they are **not directl
 | B | about 12.5 cm |
 | C | about 15 cm |
 
-For a Japanese 75 band, Wacoal's body underbust range is approximately 72.5–77.5 cm. A75 corresponds to a nominal 85 cm top bust; B75 corresponds to about 88 cm.
+Wacoal places a 78.0 cm underbust in its **80 band** range (77.5–82.5 cm). Its nominal AAA80 body measurements are about 80 cm underbust and 85 cm top bust. Jum's measured 81.5 cm top is below even that nominal interval, so the chart does not yield a supported cup letter from this measurement pair.
 
 Official Wacoal chart: https://www.wacoal.jp/advice/contents/post-15.html
 
@@ -42,7 +42,7 @@ Pepper's current international chart gives these examples:
 
 Official Pepper chart: https://www.wearpepper.com/pages/fit-guide
 
-Therefore the present **working Japanese range for Jum is 75A–75B**, not 65A/B. This is provisional until her actual measurements and fit observations arrive.
+Pepper's conversion remains useful for understanding why its label S did not imply Wacoal S, but the direct remeasure supersedes the earlier 75A–75B shopping assumption. Current working band is **Wacoal 80**; current Japanese cup letter is **unresolved**. The discrepancy between Pepper fit and the simple circumference calculation must be resolved by rechecking technique and fitting actual garments.
 
 ## Alpha-size warning
 
@@ -62,7 +62,8 @@ Use the conversion chart only to choose initial try-on sizes. The correct Japane
 
 ## Current purchasing implications
 
-- Do not order any earlier 65-band recommendation based on the shared letter S.
-- Wacoal BMM022 in **AA-A75** is the strongest exact-volume natural-fit experiment currently identified.
-- Liberty 364 JB3570 would be **M if A75** or **L if B75**, but its broad alpha grading makes it less precise than a band/cup-sized bra.
-- Une Nana Cool Liberty JB2323 is available in **B75** and is a useful wired construction specimen if Jum's measurements support Japanese B75.
+- Retire all 65- and 75-band recommendations for Jum unless a specific garment's unusually stretchy alpha-size grading justifies them.
+- Do not order a conventional Wacoal cup-sized bra from 78/81.5 alone: the 80 band is supported, but the top measurement falls below the standard AAA80 target.
+- Recheck underbust snugness and horizontal tape position; measure standing, leaning and lying bust, and repeat once in the best-fitting Pepper bra as Wacoal recommends for supported top-bust measurement.
+- For wire research, ignore the bra letter initially. Trace the Pepper channel, Jum's IMF and the known-good Emerald Erin wire; compare actual curves as described in `findings/03-wire-geometry.md`.
+- For Une Nana Cool 364 JB3570, the current S=A65/B65 is not compatible with a measured 78 cm underbust. Do not buy S merely because Pepper uses S. Confirm the larger alpha size's cup volume in person or via a retailer with returns.
