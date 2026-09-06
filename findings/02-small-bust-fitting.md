@@ -3,8 +3,8 @@
 ## Profile
 - Latest direct measurements (2026-09-06): **78.0 cm snug underbust; 81.5 cm standing/apex bust**
 - Wacoal band interval: **80** (77.5–82.5 cm); Japanese cup letter unresolved because the measured 3.5 cm difference is below the nominal AAA step
-- Known-good garment: Pepper `BRA036`, size S; reported US fit around 34AA–A
-- Breast shape: low-volume and probably shallow/wide-set, but root width must be traced rather than inferred
+- Known-good garment: Pepper `BRA036`, size S; reported US fit around 34AA–A`n- Known-good loose wire: **Emerald Erin France 36**; Jum reports most alternatives feel too narrow and too U-shaped
+- Breast shape: low-volume and probably shallow/wide-set; successful France 36 and fit feedback support an unusually open/shallow wire curve, though the IMF should still be traced
 - Frame: small/slender; ethnicity and body size do not determine a single wire geometry
 - Goal: comfortable, attractive garments that accentuate a small bust and provide sound references for custom construction
 
