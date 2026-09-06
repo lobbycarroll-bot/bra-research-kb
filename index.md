@@ -4,7 +4,7 @@
 
 **Subject:** Asian-language (JA/KO/ZH) bra-making and corsetry knowledge, with emphasis on small-bust, small-frame, shallow-breast geometry — the demographic underserved by English-language communities.
 
-**Research subject:** Steve's wife Jum (Discord: <@645323102380752916>). Asian, small-busted, small-framed, underbust ~65–70 cm, shallow breasts, interests in bra making, pattern drafting, and corsetry.
+**Research subject:** Steve's wife Jum (Discord: <@645323102380752916>). Asian, small-busted and small-framed; best-known fit is Pepper/US 34 band, between AA and A cup. Working Japanese range is 75A–75B pending direct measurements. Shallow/wide-set shape is a hypothesis to verify through fitting.
 
 ---
 
@@ -22,7 +22,8 @@
 | `findings/05-draping.md` | Draping methods for bras and corsets |
 | `findings/06-patterns-books.md` | Patterns, textbooks, schools, pattern companies |
 | `findings/07-asian-vs-western.md` | Hypothesis: do Asian makers have different defaults? |
-| indings/08-shopping-reverse-engineering.md | Live Une Nana Cool shortlist, Japanese consumer-fit evidence, sizing corrections, and ordering routes |
+| `findings/08-shopping-reverse-engineering.md` | Live Une Nana Cool shortlist, Japanese consumer-fit evidence, sizing corrections, and ordering routes |
+| `findings/09-japanese-size-conversion.md` | Wacoal/JP and Pepper/US size systems, Jum working range, and alpha-size warning |
 
 ## Standing Research Instructions
 
