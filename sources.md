@@ -105,3 +105,15 @@ These sources are useful for purchase triage, not drafting authority. Individual
 | Feast | Japanese | Small-bust specialist retailer article | Bitter Dot Cotton; shallower cup, stretch-lace edge less likely to float, 65 band relatively tight | ⭐⭐⭐ | https://feast.tokyo/blogs/news/unenanacool-fb2023 | Specialist expertise, but retailer has a commercial interest |
 | Une Nana Cool commune | Japanese | Manufacturer/PR blog | Fuyū-suru marketed for cup-edge floating and added volume | ⭐⭐ | https://www.une-nana-cool.com/blog/202305/-youtubefuyousuru.php | Useful product intent, not independent evidence |
 | Wacoal Web Store | Japanese | Official live catalog | Current sizes, product construction, prices and stock | ⭐⭐⭐⭐ | https://store.wacoal.jp/brand/unenanacool/ | Authoritative for current SKU facts; not independent fit validation |
+
+---
+
+## Small-Bust Aesthetic and Wardrobe-Fit Sources
+
+| Source | Language | Type | Contribution | Quality | URL | Notes |
+|---|---|---|---|---|---|---|
+| Wacoal small-bust survey/article | Japanese | Manufacturer survey + editorial | A/AA wearers' desired clothing effects and recurring gaping/cleavage/comfort problems | ⭐⭐⭐ | https://store.wacoal.jp/contents/chiebukuro/category/beauty/article71111.html | Manufacturer framing; underlying wearer comments are valuable for defining evaluation criteria |
+| Wacoal A-cup-specific line | Japanese | Official current feature/catalog | Separates natural, rounded-volume, and strong-volume visual goals for AA/A cups | ⭐⭐⭐⭐ | https://store.wacoal.jp/topics/store-original/acup.html | Authoritative for design intent, not independent fit validation |
+| BMM022 official page and reviews | Japanese | Current product + consumer reviews | AA-A75; natural/slim line, anti-gaping upper edge, low-volume wearer reports painless wire and no heavy padding | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_BMM022.html | Especially relevant to Jum's stated 34AA–A range |
+| My Size Collection BPP330 | Japanese | Made-to-order current product | AAA/AA/A/B at band 75, cup-volume-specific construction, refined decorative option | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_BPP330.html | High price and long lead time; strong adjacent-size research value |
+| AMPHI Stylist 4U BYJ377 | Japanese | Current product reviews | A75 small-bust wearer reports no upper gap and comfortable wired fit | ⭐⭐⭐ | https://store.wacoal.jp/disp/02_BYJ377.html | Promising lead; construction not yet classified |
