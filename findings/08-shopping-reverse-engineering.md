@@ -23,18 +23,17 @@ Use two design layers:
 
 ## Purchase ladder
 
-### First Japanese order: fit first, then research
+### One consolidated Japanese research order
 
-1. **Best confidence-first Nissen trial — Petitshu “close fit” wireless bra, AAA80.** In Nissen's three-design comparison, choose the **middle** option labelled `ピタッと密着` (“close fit”), `浮かない` (“does not gape”) and `パカパカ防止` (“prevents cup-edge gaping”). Its exact product is **CJY0222D0001**, not a color choice within the soft-wire listing. It uses a fuller-coverage wireless cup, a non-removable upper-cup pad to reduce edge float, a lower powernet lift panel, a wide underband and high sides. This is the first wearable trial because it directly addresses the visible failure mode while avoiding another wire-root gamble. Product: https://www.nissen.co.jp/item/CJY0222D0001
-2. **Best currently buyable Wacoal experiment — BMM022, AA-A80.** This is engineered to resist upper-cup gaping and make a natural line without thick augmentation. It is still a pooled cup whose nominal volume exceeds Jum's standing difference, so it is evidence—not a predicted fit. Product: https://store.wacoal.jp/disp/01_BMM022.html
+Optimize for one information-dense purchasing and shipping turn, not the lowest item price. Exclude fashion-led, broad alpha-sized candidates, but put the strongest size-specific fit hedge and the complementary construction controls into the same parcel.
 
-The earlier Nissen recommendation, **CFC0326A0002**, is the left/“natural” concept in the comparison: a soft L-wire, crossover front and thin removable pad. It remains a useful second-round construction comparator, but not the first confidence-sensitive purchase because its wire geometry is unverified. The right/“soft rounded” design deliberately adds more volume and is not the first fit control.
+1. **Trust-first Nissen trial — Petitshu ピタッと密着 / close-contact, no-gaping type, CJY0222D0001, AAA80.** In Nissen's three-style comparison, this is the **center** design—not the left “natural round” and not the right “fluffy round” style. It is a full-coverage wireless 3/4-cup whose upper edge contains a non-removable nonwoven stabilizing pad intended to reduce cup floating/gaping. A lower powernet panel lifts, while the wide underband and high sides reduce movement. This is the clearest first test of whether a Japanese AAA80 can stay in contact with Jum's very low-volume upper bust while supplying controlled shape. Official product: https://www.nissen.co.jp/item/CJY0222D0001 ; alternate ZOZOTOWN/Buyee listing: https://zozo.jp/shop/nissen/goods/95300390/
+2. **Best Wacoal size-specific hedge — My Size Collection BPP330, AAA80.** This is individually graded to AAA80 rather than pooling several cup sizes. It is a wired 4/5-cup with size-specific shaping, side bones, pad pockets and no supplied pad. At ¥12,980 and roughly one to one-and-a-half months to make, it is expensive and slow; because the goal is to minimize order turns, start it first and use the production window to assemble the rest of the parcel. Product: https://store.wacoal.jp/disp/01_BPP330.html
+3. **Natural wired control — Nissen Petitshu soft-wire CFC0326A0002, AAA80.** It uses an L-shaped soft wire, crossover front, thin removable urethane pad, powernet cup, no side bone and a folded back edge. This is not the center bra in the three-style banner; it is a separate minimally augmented comparator worth adding because it shares the same Japanese band/cup label as the trust-first wireless model. Product: https://www.nissen.co.jp/item/CFC0326A0002
+4. **Wacoal pooled-cup comparator — BMM022, AA-A80.** This is engineered to resist upper-cup gaping and make a natural line without thick augmentation. Its pooled cup nominally exceeds Jum's standing difference, so it is evidence rather than a predicted fit. Product: https://store.wacoal.jp/disp/01_BMM022.html
 
-**Trust rule:** do not add a garment merely because the fabric or collaboration is attractive. A likely non-fit undermines confidence in the research. Decorative or broad alpha-sized collaborations stay off the wearable shopping list unless their exact size and architecture are independently justified.
-
-### Do not buy yet
-
-- **Wacoal My Size Collection BPP330 AAA80:** technically interesting but ¥12,980, made after order and approximately one to one-and-a-half months to delivery. Jum measures below nominal AAA80. Defer until the inexpensive AAA80 and pooled AA-A80 controls have been examined.
+This cart deliberately holds band 80 constant while comparing three AAA80 constructions plus one pooled AA-A80 architecture. Do not add duplicate colors or speculative adjacent sizes.
+### Do not add to this round
 
 - Earlier B65 Une Nana Cool recommendations (JB2780, JB2400, JB3840, JB2310) are not wearable candidates.
 
@@ -64,15 +63,15 @@ Comfortlab Dual Cool Volume V-cut in 90P is mapped by the maker to 80A and uses 
 
 ### Recommended for Wacoal + Nissen + Japanese sheet music: one active buying proxy
 
-Use a proxy that **purchases** the goods, rather than entering a bare forwarding-company address yourself. Nissen does not ship overseas and asks customers not to designate forwarding companies as delivery addresses. A purchasing proxy can first confirm whether it can place the order.
+Use a proxy that **purchases** the goods, rather than entering a bare forwarding-company address yourself. Nissen does not ship overseas and asks customers not to designate forwarding companies as delivery addresses. A purchasing proxy can first confirm whether it can place the order. The optimization target is one consolidated Japanese export parcel and one fit/research round, not the cheapest first item.
 
 ZenMarket is the clearest current consolidated route:
 
-1. Create one account and paste each exact product URL into its cart/request form.
+1. Create one account. Submit the made-to-order BPP330 first, then paste every other exact product URL into its cart/request form.
 2. Specify exact SKU, color and size in both the structured fields and notes.
 3. Wait for the proxy to confirm price and availability before funding.
-4. Add the sheet music and other Japanese items before parcel creation.
-5. Consolidate only after everything reaches the warehouse.
+4. Add all Japanese sheet music, wire samples and other already-planned Japanese research materials during the BPP330 production window.
+5. Tell the proxy not to form or export a parcel until BPP330 and every other item have arrived. Confirm that the 60-day storage clock leaves enough margin for the stated 1–1.5-month production time, then create one consolidated parcel.
 
 Its published fee is generally ¥500 per item for ordinary shops (range ¥300–800), initial consolidation is included, and warehouse storage is free for 60 days. International shipping, Japanese domestic shipping when charged, and payment fees are additional. Official fee page: https://zenmarket.jp/en/fees.aspx
 
@@ -82,7 +81,7 @@ Proxy returns are not ordinary retail returns. ZenMarket can request one only if
 
 The tariff uncertainty is real and is separate from the proxy choice. The United States suspended duty-free de minimis treatment for shipments from **all countries** effective 2025-08-29, including packages valued at $800 or less. A February 2026 order continued that suspension. As of 2026-02-28, international postal packages also use an ad-valorem (percentage-of-value) method rather than the temporary flat per-item alternative.
 
-A proxy does not change origin. Customs follows the declared **country where the garment was manufactured**, not the country of the retailer or proxy warehouse. On the current product pages, Wacoal BMM022 and the Nissen Petitshu are listed as made in China. A consolidated parcel from Japan must retain those line-item origins.
+A proxy does not change origin. Customs follows the declared **country where the garment was manufactured**, not the country of the retailer or proxy warehouse. On the current product pages, Wacoal BMM022 and both Nissen bras are listed as made in China; BPP330 is listed as made in Japan. A consolidated parcel from Japan must retain those line-item origins.
 
 Many man-made-fiber brassieres have historically entered under HTSUS 6212.10.9020 with a 16.9% general duty; lace/embroidery construction can classify differently, and additional country-specific duties may apply. Treat 16.9% as a classification warning, not a complete landed-cost quotation. Country measures and carrier processing fees remain volatile.
 
@@ -111,9 +110,10 @@ The decisive limitation: WorldShopping explicitly does **not** accept returns or
 
 | Priority | Shop / product | Enter exactly | Purchase note |
 |---|---|---|---|
-| 1 | Nissen Petitshu close-fit wireless | `CJY0222D0001`, `AAA80`, preferred available color | Middle `ピタッと密着` design; do not substitute one of the other two silhouettes |
-| 2 | Wacoal BMM022 | `BMM022`, `AA-A80`, BL | Official page showed AA-A80 selectable when checked |
-| Hold | BPP330 | `AAA80` | Do not include in the first consolidated order |
+| 1 — submit first | Wacoal BPP330 | `BPP330`, `AAA80`, BE or BL | Made to order in roughly 1–1.5 months; begin its clock before the other items |
+| 2 | Nissen Petitshu ピタッと密着 | `CJY0222D0001`, `AAA80`, ivory if available | Center design in Nissen's three-style comparison. ZOZOTOWN item 95300390 exposes Buyee and has shown AAA80 stock: https://zozo.jp/shop/nissen/goods/95300390/ |
+| 3 | Nissen Petitshu soft-wire control | `CFC0326A0002`, `AAA80`, preferred color | If Nissen direct is rejected, use the Nissen Yahoo listing `ZZY4626A0031`: https://store.shopping.yahoo.co.jp/nissenzai/zzy4626a0031.html |
+| 4 | Wacoal BMM022 | `BMM022`, `AA-A80`, BL | Pooled-cup comparator; official page showed AA-A80 selectable when checked |
 
 Do not remove tags, wash, alter or dissect until Jum has completed a documented try-on. With a proxy, assume every fit trial is effectively final sale.
 
@@ -139,10 +139,10 @@ Before washing or cutting, record relaxed/stretched band; actual wire trace and 
 - Wacoal size chart: https://store.wacoal.jp/size/chart/size3000.html
 - Wacoal BMM022: https://store.wacoal.jp/disp/01_BMM022.html
 - Wacoal BPP330: https://store.wacoal.jp/disp/01_BPP330.html
-
 - Wacoal domestic-only ordering notice: https://store.wacoal.jp/guide/morder_guideline.html
-- Nissen Petitshu close-fit wireless: https://www.nissen.co.jp/item/CJY0222D0001
-- Nissen Petitshu soft-wire comparator: https://www.nissen.co.jp/item/CFC0326A0002
+- Nissen Petitshu close-contact/no-gaping CJY0222D0001: https://www.nissen.co.jp/item/CJY0222D0001
+- ZOZOTOWN/Buyee alternate listing: https://zozo.jp/shop/nissen/goods/95300390/
+- Nissen Petitshu soft-wire control CFC0326A0002: https://www.nissen.co.jp/item/CFC0326A0002
 - Nissen overseas-delivery restriction: https://support.nissen.co.jp/hc/ja/articles/4781068384030
 - SATAMI BR-05951: https://www.online-satami.com/BR-05951-BK-Black-Invisible-T-shirt-Bra-Cup-A-D
 - SATAMI delivery: https://www.online-satami.com/order
