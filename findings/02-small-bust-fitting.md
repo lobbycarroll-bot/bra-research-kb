@@ -1,11 +1,12 @@
 # Small-Bust and Small-Frame Fitting
 
 ## Profile
-- Underbust: ~65–70 cm (JP sizing: 65 or 70 band)
-- Cup: AA–B
-- Breast shape: shallow (お皿型 territory), wide-set root
-- Frame: petite/narrow torso
-- Problem: most Western bra-making content addresses large-bust geometry; Asian community skews to this size
+- Latest direct measurements (2026-09-06): **78.0 cm snug underbust; 81.5 cm standing/apex bust**
+- Wacoal band interval: **80** (77.5–82.5 cm); Japanese cup letter unresolved because the measured 3.5 cm difference is below the nominal AAA step
+- Known-good garment: Pepper `BRA036`, size S; reported US fit around 34AA–A
+- Breast shape: low-volume and probably shallow/wide-set, but root width must be traced rather than inferred
+- Frame: small/slender; ethnicity and body size do not determine a single wire geometry
+- Goal: comfortable, attractive garments that accentuate a small bust and provide sound references for custom construction
 
 ---
 
@@ -51,11 +52,11 @@ Industrial dress forms and CAD virtual bodies have **ease built in**. This smoot
 - **Horizontal seam** → more projected
 - For small/shallow busts: 2-part + vertical seam is the starting hypothesis
 
-### Band/wire width
-- Standard wires are sized for larger underbust circumferences — the wire extends further under the arm than needed
-- Japanese wires (jimura L-type at 65): width 5.3 cm, length 16.6 cm
-- Western wires at nominally same size: width ~6.4 cm (U-type), length ~18.7 cm — ~2 cm longer, ~1.1 cm wider
-- This means Western wires dig into side tissue and extend past the breast root
+### Band and wire geometry
+- Do not infer a narrow or wide wire from “wide-set”: spacing between breasts and width of each breast root are different variables.
+- Western specialists do not offer only one wire shape. Emerald Erin currently sells Orange, Round, Bliss, France, Carmen, Plunge and Omega geometries; France is explicitly shallow, splayed, short and petite/small-cup oriented.
+- Jimura U/C/L wires add documented Japanese comparison curves, but their wire numbers are not bra-band numbers. Select by a full-size overlay against the IMF, Pepper channel and known-good Emerald Erin wire.
+- Compare arc length, lower curve, tip heights, asymmetry and spring—not width alone. See `findings/03-wire-geometry.md`.
 
 ---
 
