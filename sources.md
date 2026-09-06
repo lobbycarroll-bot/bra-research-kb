@@ -126,3 +126,12 @@ These sources are useful for purchase triage, not drafting authority. Individual
 | Pepper Fit Guide | English | Official brand chart | Pepper alpha and US-to-Japanese conversion, including 34AA→75A and 34A→75B | ⭐⭐⭐⭐ | https://www.wearpepper.com/pages/fit-guide | Brand-specific; use measurements for confirmation |
 | Une Nana Cool JB2323 | Japanese | Official live product | Current wired Liberty 3/4 cup; wide wire, inner side support, removable pad and cup-specific construction | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_JB2323.html | B75 in current size run; not verified as plate/vertical seam |
 | ZOZOTOWN JB2323 | Japanese | Current retailer inventory | B75 stock and Buyee-enabled purchasing route | ⭐⭐⭐ | https://zozo.jp/shop/unenanacool/goods/104822073/ | Stock is volatile |
+## Wire-system comparison additions (checked 2026-09-06)
+
+| Source | Region | Type | Why it matters |
+|---|---|---|---|
+| [Emerald Erin underwire collection](https://shop.emeralderin.com/collections/underwires) | Canada/France | Supplier catalog | Seven distinct current geometries; disproves the one-Western-wire premise |
+| [Emerald Erin fitting pack](https://shop.emeralderin.com/products/underwire-fitting-pack-find-your-perfect-size) | Canada/France | Supplier technical descriptions | Defines Orange, Round, Bliss, France, Carmen, Plunge and Omega; France is shallow/splayed/petite |
+| [Jimura U/C/L full-size samples](https://www.jimura.jp/product/419) | Japan | Supplier technical/sample listing | Full-size copies and physical sets; warns numbers are recommendations and manufacturer curves differ; discontinuing when stock exhausts |
+| [Jimura U type](https://www.jimura.jp/product/400) / [L type](https://www.jimura.jp/product/430) | Japan | Dimensioned supplier listings | Published height, width and arc length for comparison |
+| [Wacoal official bra size chart](https://store.wacoal.jp/size/chart/size5116.html) | Japan | Manufacturer size standard | 78 cm underbust falls in 80 band; AAA is nominally about 5 cm difference |
