@@ -12,7 +12,11 @@
 
 Current Une Nana Cool product pages do **not** support the earlier claim that `ふゆうする` is sold in 65AA or 65A. Its live selector starts at **B65**. `ビタードットコットン`, `さあ、わたし`, and most other band/cup-sized current styles also start at B65.
 
-The safest first purchase for an A65/B65-sized subject is the current **364 Bra Liberty Fabric, size S**: Wacoal explicitly maps **S = A65 or B65**.
+The leading first-fit candidate **if Jum measures into Japanese A65/B65** is the current **364 Bra Liberty Fabric, size S**: Wacoal explicitly maps **its own S = A65 or B65**. Do not transfer the letter S from another brand.
+
+### Cross-market size warning
+
+Japanese cup letters are based on centimeter differences and are not directly equal to US letters. Wacoal defines 65 as a 62.5–67.5 cm underbust and B as about a 12.5 cm top-minus-underbust difference. Pepper's current international chart maps its US 30A to Japanese 65B, and maps its alpha S (US 34AA/34A/34B) to Japanese 75A/75B/75C. Therefore **Pepper S does not validate Wacoal S or a 65 band**. Measure Jum's snug underbust and standing full bust in centimeters before ordering.
 
 Do not rely on Wacoal search results for a size. A search for “65A” returned styles whose actual product selector had no A65. Verify the selectable size on the product page.
 
@@ -20,7 +24,7 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 
 | Priority | Product | Live size/stock relevant to Jum | Price checked | Construction value | Direct link |
 |---|---|---|---:|---|---|
-| 1 | **364 Bra Lace — Made with Liberty Fabric, renewed** (JB3570) | **S in stock; S = A65/B65** | ¥4,620 | Best first fit reference. Wireless, extremely light, breathable Elc® molded 3D cup, high side/back, triangular power-net plus twin-strap lift. Same alpha-size format as the known-good Pepper S and a Liberty print Jum likes. | https://store.wacoal.jp/disp/01_JB3570.html |
+| 1 | **364 Bra Lace — Made with Liberty Fabric, renewed** (JB3570) | **S in stock; S = A65/B65** | ¥4,620 | Best first fit reference. Wireless, extremely light, breathable Elc® molded 3D cup, high side/back, triangular power-net plus twin-strap lift. Do not equate this Wacoal S with Pepper S; the brands use different mappings. Liberty print Jum likes. | https://store.wacoal.jp/disp/01_JB3570.html |
 | 2 | **Bitter Dot Cotton, renewed** (JB2780) | **B65 in stock**; no A65/AA65 | ¥4,620 | Strongest wired **fit** candidate: deliberately shallow cup, stretch-lace upper edge that resists gaping, low center/gore, and cotton-blend back. A small-bust specialist warns that the 65 band feels relatively tight/short. | https://store.wacoal.jp/disp/01_JB2780.html |
 | 3 | **ふゆうする / Fuyū-suru** (JB2400) | **B65 in stock**; no A65/AA65 | ¥3,960 | Distinctive wired 3/4-cup construction experiment. The stretchy `ほわピタカップ` is marketed for upper-edge gaping and added volume, but current reviews sampled were mostly larger cups. It is not verified as an A/AA or plate-cup style. | https://store.wacoal.jp/disp/01_JB2400.html |
 | 4 | **BRAGENIC Happy Bloom** (JB3840) | **B65 in stock in black**; beige B65 awaiting restock; no A65 | ¥3,630 | Wireless molded comparison. Double-Up molded cup adds volume; wide internal sheet resists lateral spread; stretch-lace upper edge. Useful to reverse-engineer *volume-building*, but not a neutral shallow-cup baseline. One color is enough. | https://store.wacoal.jp/disp/01_JB3840.html |
