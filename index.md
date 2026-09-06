@@ -4,7 +4,7 @@
 
 **Subject:** Asian-language (JA/KO/ZH) bra-making and corsetry knowledge, with emphasis on small-bust, small-frame, shallow-breast geometry — the demographic underserved by English-language communities.
 
-**Research subject:** Steve's wife Jum (Discord: <@645323102380752916>). Asian, small-busted and small-framed. Latest direct measurements (2026-09-06): 78.0 cm snug underbust and 81.5 cm standing/apex bust. Wacoal chart band: 80; cup letter unresolved because the 3.5 cm difference is below its nominal AAA step. Known-good reference: Pepper BRA036 size S.
+**Research subject:** Steve's wife Jum (Discord: <@645323102380752916>). Asian, small-busted and small-framed. Latest direct measurements (2026-09-06): 78.0 cm snug underbust and 81.5 cm standing/apex bust. Wacoal chart band: 80; cup letter unresolved because the 3.5 cm difference is below its nominal AAA step. Known-good garment: Pepper BRA036 size S. Known-good loose wire: Emerald Erin France 36; most other wires feel too narrow/U-shaped.
 
 ---
 
