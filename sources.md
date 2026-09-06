@@ -117,3 +117,12 @@ These sources are useful for purchase triage, not drafting authority. Individual
 | BMM022 official page and reviews | Japanese | Current product + consumer reviews | AA-A75; natural/slim line, anti-gaping upper edge, low-volume wearer reports painless wire and no heavy padding | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_BMM022.html | Especially relevant to Jum's stated 34AA–A range |
 | My Size Collection BPP330 | Japanese | Made-to-order current product | AAA/AA/A/B at band 75, cup-volume-specific construction, refined decorative option | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_BPP330.html | High price and long lead time; strong adjacent-size research value |
 | AMPHI Stylist 4U BYJ377 | Japanese | Current product reviews | A75 small-bust wearer reports no upper gap and comfortable wired fit | ⭐⭐⭐ | https://store.wacoal.jp/disp/02_BYJ377.html | Promising lead; construction not yet classified |
+
+### Size-conversion and Liberty construction additions
+
+| Source | Language | Type | Contribution | Quality | URL | Notes |
+|---|---|---|---|---|---|---|
+| Wacoal Japan bra-size chart | Japanese | Official sizing standard | Japanese 65/70/75 underbust ranges and 2.5 cm cup increments | ⭐⭐⭐⭐⭐ | https://www.wacoal.jp/advice/contents/post-15.html | Authoritative for Wacoal/JIS-labelled sizes |
+| Pepper Fit Guide | English | Official brand chart | Pepper alpha and US-to-Japanese conversion, including 34AA→75A and 34A→75B | ⭐⭐⭐⭐ | https://www.wearpepper.com/pages/fit-guide | Brand-specific; use measurements for confirmation |
+| Une Nana Cool JB2323 | Japanese | Official live product | Current wired Liberty 3/4 cup; wide wire, inner side support, removable pad and cup-specific construction | ⭐⭐⭐⭐ | https://store.wacoal.jp/disp/01_JB2323.html | B75 in current size run; not verified as plate/vertical seam |
+| ZOZOTOWN JB2323 | Japanese | Current retailer inventory | B75 stock and Buyee-enabled purchasing route | ⭐⭐⭐ | https://zozo.jp/shop/unenanacool/goods/104822073/ | Stock is volatile |
