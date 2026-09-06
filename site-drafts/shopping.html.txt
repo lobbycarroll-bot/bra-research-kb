@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jum's Bra Research Shopping List</title>
+<style>
+:root{--accent:#a63862;--ink:#2d2a2b;--muted:#6f6468;--paper:#faf7f5;--card:#fff;--line:#e8dcdf;--note:#f6ede8;--warn:#fff3d9}
+*{box-sizing:border-box}body{background:var(--paper);font-family:Georgia,serif;color:var(--ink);line-height:1.62;max-width:860px;margin:0 auto;padding:2rem 1.25rem 4rem}
+h1{font-size:2rem;color:var(--accent);line-height:1.2;margin-bottom:.3rem}h2{color:var(--accent);font-size:1.35rem;margin-top:2.35rem;border-bottom:2px solid #ecd9df;padding-bottom:.3rem}h3{margin:.1rem 0 .4rem;font-size:1.08rem}
+a{color:var(--accent)}.sub{color:var(--muted);margin-top:0}.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:1rem 1.2rem;margin:1rem 0}.meta{font-size:.88rem;color:var(--muted);margin:.3rem 0}.note,.warning{padding:.9rem 1rem;border-radius:0 8px 8px 0;margin:1.2rem 0}.note{background:var(--note);border-left:4px solid var(--accent)}.warning{background:var(--warn);border-left:4px solid #c98916}.badge{display:inline-block;font:700 .76rem/1.2 system-ui,sans-serif;letter-spacing:.03em;text-transform:uppercase;background:#f0dce4;color:#70223f;border-radius:999px;padding:.25rem .5rem;margin-right:.35rem}table{width:100%;border-collapse:collapse;background:#fff;font-size:.94rem}th,td{text-align:left;vertical-align:top;border:1px solid var(--line);padding:.65rem}th{background:#f3e8ec}code{font-family:ui-monospace,monospace;background:#f1ecee;padding:.1rem .3rem;border-radius:4px}.back{margin-top:3rem;font-size:.9rem;color:var(--muted)}
+@media(max-width:640px){body{padding:1.2rem .8rem 3rem}table{display:block;overflow-x:auto}h1{font-size:1.65rem}}
+</style>
+</head>
+<body>
+<h1>Jum's Bra Research Shopping List</h1>
+<p class="sub">Fit trials and construction specimens · updated September 6, 2026</p>
+
+<div class="note">
+<strong>Current baseline:</strong> 78.0 cm snug underbust · 81.5 cm standing/apex bust · Japanese band <strong>80</strong> · very low cup volume · Emerald Erin France wire <strong>36</strong> is the closest physical wire found so far. France 36 is a wire number, not a band size.
+</div>
+
+<div class="warning">
+<strong>Important correction:</strong> Jum already owns the France wire and Mésange pattern. The stock Mésange cups were far too large, the apex was too high, and the cradle/channel did not match the wire perfectly. She had to redraft the cup and related geometry. The redraft—not the commercial Mésange cup—is now the home-construction baseline.
+</div>
+
+<h2>First Japanese proxy order</h2>
+<p>Buy one garment for each distinct research question. Do not duplicate colors or order speculative adjacent sizes: proxy fit returns are effectively unavailable.</p>
+
+<div class="card">
+<span class="badge">Priority 1</span><span class="badge">Natural control</span>
+<h3><a href="https://www.nissen.co.jp/item/CFC0326A0002">Nissen Petitshu soft-wire bra</a></h3>
+<div class="meta"><strong>Order:</strong> <code>CFC0326A0002</code> · AAA80 · preferred color</div>
+<p>The most size-relevant inexpensive control: L-shaped soft wire, crossover front, thin removable urethane pad, powernet cup, no side bone and a folded back edge. It explicitly aims for modest natural shaping rather than heavy padding.</p>
+<p>If the main Nissen site is awkward for the proxy, use the <a href="https://store.shopping.yahoo.co.jp/nissenzai/zzy4626a0031.html">Nissen Yahoo Japan listing</a> and specify <code>ZZY4626A0031</code>, AAA80.</p>
+</div>
+
+<div class="card">
+<span class="badge">Priority 2</span><span class="badge">Wacoal fit experiment</span>
+<h3><a href="https://store.wacoal.jp/disp/01_BMM022.html">Wacoal BMM022</a></h3>
+<div class="meta"><strong>Order:</strong> <code>BMM022</code> · AA–A80 · BL</div>
+<p>Wired, designed to resist upper-cup gaping and create a natural line without thick augmentation. The pooled AA–A cup still has more nominal volume than Jum's measurements predict, so this is an informative experiment—not a promised fit.</p>
+</div>
+
+<div class="card">
+<span class="badge">Priority 3</span><span class="badge">Best Liberty</span>
+<h3><a href="https://store.wacoal.jp/disp/01_JB3570.html">Une Nana Cool JB3570 — Made with Liberty Fabric</a></h3>
+<div class="meta"><strong>Order:</strong> <code>JB3570</code> · L · BE (confirm live stock)</div>
+<p>Size L is the only grade containing A80; S is only A65/B65. This is a flexible one-piece wireless moulded cup with lift sheet, high sides and twin-strap lift. Buy it because Jum likes the Liberty design and its internal architecture is useful—not because the broad alpha grade promises precise cup volume.</p>
+</div>
+
+<h2>How to place the Japanese order</h2>
+<div class="card">
+<h3>Recommended: one active purchasing proxy</h3>
+<ol>
+<li>Create a <a href="https://zenmarket.jp/en/">ZenMarket</a> account.</li>
+<li>Paste each exact product URL into the proxy cart; repeat SKU, size and color in the notes.</li>
+<li>Wait for confirmed price and availability before funding.</li>
+<li>Add the Japanese sheet music and any wire samples.</li>
+<li>Wait until every item reaches the warehouse, then create one consolidated parcel.</li>
+</ol>
+<p>ZenMarket's published ordinary-shop fee is generally ¥500 per item, initial consolidation is included, and storage is free for 60 days. Domestic Japanese shipping, payment fees, international shipping and U.S. import charges are additional.</p>
+</div>
+
+<div class="card">
+<h3>Why not use only a forwarding address?</h3>
+<p>Wacoal and Nissen do not ship overseas, and Nissen asks customers not to designate forwarding companies as delivery addresses. An active buying proxy can confirm whether it can purchase from the merchant before taking payment.</p>
+</div>
+
+<div class="card">
+<h3>WorldShopping: easy, but poor for uncertain fit</h3>
+<p>Where its cart appears, WorldShopping is convenient, but it currently charges a 10% purchasing fee plus international freight and a ¥500 package-handling fee. More importantly, it explicitly refuses returns or exchanges because the size did not fit, regardless of the retailer's domestic return policy. Use it only for a settled size or a garment worth keeping as a teardown.</p>
+<p><a href="https://help.worldshopping.global/hc/en-us/articles/4830466068894-Overview-of-Costs">WorldShopping fees</a> · <a href="https://help.worldshopping.global/hc/en-us/articles/4830481436958-Can-I-Return-or-Exchange-an-Item-Conditions-and-Procedure">return rule</a></p>
+</div>
+
+<h2>U.S. tariffs and declared origin</h2>
+<div class="warning">
+<strong>A proxy solves access, not tariffs.</strong> U.S. duty-free de minimis treatment for low-value commercial shipments was suspended globally in August 2025 and continued in 2026. A Japanese warehouse does not make a product Japanese-origin: BMM022 and the Nissen bra are currently listed as made in China, while JB3570 is listed as made in Vietnam.
+</div>
+<ul>
+<li>Ask which carriers currently accept U.S. apparel parcels and whether charges are prepaid (DDP) or collected on delivery (DDU).</li>
+<li>Keep the itemized invoice and correct manufacturing origin for each garment.</li>
+<li>Do not request gift marking or undervaluation.</li>
+<li>Get the final packed shipping quote before authorizing export and keep a customs reserve.</li>
+<li>Many man-made-fiber bras have historically carried a 16.9% general duty under HTSUS 6212.10.9020; classification and additional country measures can change, so this is not a final landed-cost estimate.</li>
+</ul>
+
+<h2>Other regional specimens</h2>
+<div class="card">
+<span class="badge">Direct international</span><span class="badge">Augmentation study</span>
+<h3><a href="https://www.sabina.co.th/en/category/modern-v">Sabina Modern V wired</a></h3>
+<div class="meta"><strong>Select:</strong> one wired Level 3 · 36A only if the live selector offers it</div>
+<p>Sabina describes Modern V as V-shaped side padding that pushes inward; Level 3 is 50% padding intended to add about half a cup. The research value is the padding vector. Sabina says it ships internationally by DHL. Assume international fit returns will not be practical.</p>
+</div>
+
+<div class="card">
+<span class="badge">Hold</span><span class="badge">Geometry study</span>
+<h3><a href="https://www.online-satami.com/BR-05951-BK-Black-Invisible-T-shirt-Bra-Cup-A-D">SATAMI BR-05951, 36A</a></h3>
+<p>An unusually relevant design: extra-wide A-cup wire, low gore, graduated padding, add-on pad pockets and underarm crescent panels. However, SATAMI currently suspends direct shipments to the United States. Do not order until SATAMI or a Hong Kong proxy confirms a courier route.</p>
+</div>
+
+<h2>Hold or skip this round</h2>
+<table>
+<thead><tr><th>Item</th><th>Decision</th><th>Reason</th></tr></thead>
+<tbody>
+<tr><td>Wacoal BPP330 AAA80</td><td>Hold</td><td>¥12,980, made after order, roughly 1–1.5 months; Jum measures below nominal AAA80.</td></tr>
+<tr><td>Liberty JB2323 B75</td><td>Teardown only</td><td>Wrong band and far too much nominal volume.</td></tr>
+<tr><td>Une Nana Cool B65 models</td><td>Skip</td><td>Band dramatically too short and cup too large.</td></tr>
+<tr><td>Another Mésange or assumed “compatible” pattern</td><td>Skip</td><td>The actual build already proved that advertised wire compatibility did not solve cup volume, apex or cradle geometry.</td></tr>
+<tr><td>Duplicate colors / speculative sizes</td><td>Skip</td><td>Proxy purchases are effectively final sale for fit.</td></tr>
+</tbody>
+</table>
+
+<h2>Home-construction research</h2>
+<p>Start from Jum's redrafted cradle and cup, not a stock pattern. Overlay the original Mésange and redraft; record the free and sprung France-36 curves; measure how far the apex moved and how much volume was removed. Preserve a minimal natural cup as the control, then copy selected retail mechanisms—padding maps, side slings, lift sheets and strap vectors—onto the same corrected cradle one variable at a time.</p>
+
+<h2>Before washing or cutting a purchased bra</h2>
+<p>Photograph the garment and record relaxed/stretched band, actual wire trace and spring, tip heights, gore dimensions, cup-shell perimeter, horizontal and vertical cup depth, apex position, pad thickness on a grid, pad-pocket and sling shapes, strap vectors, elastic tension and layer order. Complete the documented try-on with tags attached first.</p>
+
+<p class="back">← <a href="/">Back to index</a> · <a href="/kb/">Knowledge base</a> · <a href="https://github.com/lobbycarroll-bot/bra-research-kb/blob/main/findings/08-shopping-reverse-engineering.md">Full research notes</a></p>
+</body>
+</html>
