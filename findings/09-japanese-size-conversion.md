@@ -4,8 +4,10 @@
 
 ## Known fit information
 
-- Jum's best-fitting garment reference is Pepper style BRA036, labelled size S.`n- Her best loose-wire fit is **Emerald Erin France 36**; this physical geometry is more reliable for wire selection than converting any bra-size label.
-- Steve reports her familiar US/Pepper band as 34 and her cup volume as between AA and A.`n- Direct remeasure on 2026-09-06: **78.0 cm snug underbust and 81.5 cm standing/apex bust** (3.5 cm difference).
+- Jum's best-fitting garment reference is Pepper style BRA036, labelled size S.
+- Her best loose-wire fit is **Emerald Erin France 36**; this physical geometry is more reliable for wire selection than converting any bra-size label.
+- Steve reports her familiar US/Pepper band as 34 and her cup volume as between AA and A.
+- Direct remeasure on 2026-09-06: **78.0 cm snug underbust and 81.5 cm standing/apex bust** (3.5 cm difference).
 - Breast shape is believed to be low-volume, shallow and wide-set. Shape must be evaluated separately from size.
 
 ## The essential rule
