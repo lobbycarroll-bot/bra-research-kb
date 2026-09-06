@@ -77,6 +77,25 @@ Its published fee is generally ¥500 per item for ordinary shops (range ¥300–
 
 Proxy returns are not ordinary retail returns. ZenMarket can request one only if the seller agrees; after warehouse arrival it adds a ¥1,000-per-item cancellation fee plus domestic return shipping and seller charges. Once exported, international freight and timing make a fit return unrealistic.
 
+### U.S. tariff reality as of 2026
+
+The tariff uncertainty is real and is separate from the proxy choice. The United States suspended duty-free de minimis treatment for shipments from **all countries** effective 2025-08-29, including packages valued at $800 or less. A February 2026 order continued that suspension. As of 2026-02-28, international postal packages also use an ad-valorem (percentage-of-value) method rather than the temporary flat per-item alternative.
+
+A proxy does not change origin. Customs follows the declared **country where the garment was manufactured**, not the country of the retailer or proxy warehouse. On the current product pages, Wacoal BMM022 is listed as made in China and Liberty JB3570 as made in Vietnam; the Nissen Petitshu is also listed as made in China. A consolidated parcel from Japan must retain those line-item origins.
+
+Many man-made-fiber brassieres have historically entered under HTSUS 6212.10.9020 with a 16.9% general duty; lace/embroidery construction can classify differently, and additional country-specific duties may apply. Treat 16.9% as a classification warning, not a complete landed-cost quotation. Country measures and carrier processing fees remain volatile.
+
+Practical rules:
+
+- ask the proxy which carriers currently accept U.S. apparel parcels and whether duties are prepaid (DDP) or collected on delivery (DDU);
+- request a shipping quote only after all items have reached the warehouse and the final packed weight is known;
+- consolidate the Japanese bras and sheet music to reduce repeated international handling/brokerage, while keeping an itemized invoice and correct origins;
+- do not request gift marking or undervaluation;
+- keep a customs reserve and judge the order by total research value, not the Japanese sticker price;
+- because fit returns are effectively unavailable, buy one specimen per architecture rather than duplicate colors or adjacent speculative sizes.
+
+Official references: https://www.help.cbp.gov/s/article/Article-1919?language=en_US and https://www.whitehouse.gov/wp-content/uploads/2026/02/eo-14388.pdf
+
 ### WorldShopping: simpler on Wacoal, worse for uncertain fit
 
 If the WorldShopping cart appears on the Wacoal page, it is the lowest-friction option. Its current charges include a 10% purchasing fee on item price plus domestic delivery, then international freight and a ¥500-per-package handling fee. It can also accept manual purchase requests and can consolidate different merchants if support is contacted before the second payment.
