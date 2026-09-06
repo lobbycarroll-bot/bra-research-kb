@@ -1,0 +1,13 @@
+[build]
+  publish = "site"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/wiki-write"
+  to = "/.netlify/functions/wiki-write"
+  status = 200
+
+[[redirects]]
+  from = "/api/site-write"
+  to = "/.netlify/functions/site-write"
+  status = 200

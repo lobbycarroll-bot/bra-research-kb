@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/><script>
+  (() => {
+    const param = new URLSearchParams(window.location.search).get("scoutTheme");
+    const theme =
+      param || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", theme);
+  })();
+</script>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Considerations on the Bra — armeria-marine (translated)</title>
+<style>
+:root {
+  color-scheme: light;
+  --cp-bg: #f7f4ef;
+  --cp-bg-elevated: #fcfbf8;
+  --cp-surface: #ffffff;
+  --cp-surface-soft: #f5f5f5;
+  --cp-border: #dedede;
+  --cp-border-strong: #919191;
+  --cp-text: #242424;
+  --cp-text-muted: #5c5c5c;
+  --cp-text-soft: #6f6f6f;
+  --cp-accent: #b11f4b;
+  --cp-accent-hover: #9a1a41;
+  --cp-accent-soft: rgba(177, 31, 75, 0.08);
+  --cp-accent-fg: #ffffff;
+  --cp-success: #16a34a;
+  --cp-danger: #dc2626;
+  --cp-warning: #f59e0b;
+  --cp-link: #0078d4;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+  --cp-overlay: rgba(255, 255, 255, 0.8);
+  --cp-panel: rgba(255, 255, 255, 0.86);
+  --cp-panel-strong: rgba(255, 255, 255, 0.96);
+  --cp-sheen: rgba(255, 255, 255, 0.55);
+  --cp-highlight: rgba(177, 31, 75, 0.12);
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --cp-bg: #3d3b3a;
+  --cp-bg-elevated: #343231;
+  --cp-surface: #292929;
+  --cp-surface-soft: #2e2e2e;
+  --cp-border: #474747;
+  --cp-border-strong: #5f5f5f;
+  --cp-text: #dedede;
+  --cp-text-muted: #919191;
+  --cp-text-soft: #b0b0b0;
+  --cp-accent: #fd8ea1;
+  --cp-accent-hover: #fb7b91;
+  --cp-accent-soft: rgba(253, 142, 161, 0.14);
+  --cp-accent-fg: #1a1a1a;
+  --cp-success: #4ade80;
+  --cp-danger: #f87171;
+  --cp-warning: #fbbf24;
+  --cp-link: #4da6ff;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+  --cp-overlay: rgba(41, 41, 41, 0.88);
+  --cp-panel: rgba(41, 41, 41, 0.72);
+  --cp-panel-strong: rgba(41, 41, 41, 0.96);
+  --cp-sheen: rgba(255, 255, 255, 0.04);
+  --cp-highlight: rgba(253, 142, 161, 0.12);
+}
+
+body { font-family:"Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif; background:var(--cp-bg); color:var(--cp-text); max-width:920px; margin:0 auto; padding:2rem 1.2rem 4rem; line-height:1.7; }
+h1 { font-size:1.65rem; color:var(--cp-accent); }
+h2 { font-size:1.2rem; color:var(--cp-accent); margin-top:2rem; }
+.meta { font-size:.85rem; color:var(--cp-text-muted); }
+.note { background:var(--cp-accent-soft); border-left:4px solid var(--cp-accent); padding:.75rem 1rem; font-size:.9rem; border-radius:0.625rem; }
+blockquote { border-left:3px solid var(--cp-border-strong); margin-left:0; padding-left:1rem; color:var(--cp-text-muted); font-style:italic; }
+a { color:var(--cp-link); }
+a:hover { color:var(--cp-accent-hover); }
+hr { border:none; border-top:1px solid var(--cp-border); margin:2rem 0; }
+.inline-source-images { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1rem; margin:1rem 0 2rem; }
+.inline-source-images.single { grid-template-columns:minmax(0,620px); }
+.inline-source-images figure { margin:0; padding:.6rem; background:var(--cp-surface); border:1px solid var(--cp-border); border-radius:0.625rem; box-shadow:0 0 2px var(--cp-border), 0 1px 2px var(--cp-border); }
+.inline-source-images img { display:block; width:100%; height:auto; border-radius:0.625rem; }
+.inline-source-images figcaption { margin-top:.5rem; color:var(--cp-text-muted); font-size:.82rem; }
+.image-permission { color:var(--cp-text-muted); font-size:.88rem; border-top:1px solid var(--cp-border); padding-top:.75rem; margin-top:2rem; }
+</style>
+</head>
+<body>
+<p><a href="../index.html">← Back to the collection</a></p>
+<article>
+<h1>Considerations on the Bra — why flat drafting fails</h1>
+<p class="meta">
+Original: <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">ブラジャーについての考察</a><br/>
+Author: armeria-marine — professional garment patternmaker working in 3D CAD<br/>
+Language: Japanese · Published April 2017<br/>
+Translated from Japanese by Lobby. Original images are reproduced inline with permission and attribution; all rights remain with their respective rights holders.
+</p>
+<p class="note">Translator's note: this post matters because it names the exact reason flat/standard-form drafting overshoots cup depth for small and shallow busts: commercial and virtual bodies have ease built in, which smooths away the transition between the bust apex and the underbust. The author's "gold standard" alternative is plaster-bandage casting of the real chest.</p>
+<p>It's been a while since my last update. The paper is still in progress and will likely take until summer. My heartfelt thanks to everyone who reached out even while this site was dormant — among them, a client who asked me to create a bra pattern.</p>
+<p>Since I'm a patternmaker for clothes and lingerie is uncharted territory for me, I hesitated — but I have 3D CAD, and I was curious, so I gave it a try as an experiment. With the client's permission, here are my reflections on it.</p>
+<p>First, I was reminded — quite forcefully — that underwear, i.e., the bra, is an entirely different animal. This time, of course, I worked with a 3D virtual body, but because a bra is so different from ordinary clothing, I started by groping for answers to the most basic questions: which virtual body to use, and what method to build with.</p>
+<p>At first I tried deforming one of the stock virtual bodies. That failed. No matter what I did, the cup came out flat, and I couldn't achieve the shape I wanted. So instead I used the "real human body" — the second item from the top in the sidebar of my site.</p>
+<p>This real-body model was created by scanning a subject with a 3D body scanner <strong>while wearing a bra</strong>. (In practice I deformed it further.) The subject is an E cup. To check my work, I assembled the resulting pattern in paper.</p><div class="inline-source-images"><figure><img alt="Original article image 1" loading="lazy" src="../assets/armeria-marine-bra-considerations/01.jpg"/><figcaption>Original image 1 — <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">source article</a></figcaption></figure><figure><img alt="Original article image 2" loading="lazy" src="../assets/armeria-marine-bra-considerations/02.jpg"/><figcaption>Original image 2 — <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">source article</a></figcaption></figure></div>
+<blockquote>A bra, unlike clothing that covers the whole body, covers a very small, narrow region of the body. Everything comes down to just two points: how to shape the cup, and how to engineer the underbust structure that supports it.</blockquote>
+<p>As for the cup: whether you shape it as a bowl (お椀型), a Mount Fuji (富士山型), or a plate (お皿型) changes how the bust looks and also changes how the bra feels to wear. A bra looks simple at a glance, but because women's breasts vary so much individually in shape and size, I suspect it's genuinely difficult to make one well without a solid grasp of the theory.</p><div class="inline-source-images single"><figure><img alt="Original article image 3" loading="lazy" src="../assets/armeria-marine-bra-considerations/03.jpg"/><figcaption>Original image 3 — <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">source article</a></figcaption></figure></div>
+<p>The image above is one I borrowed from the BraDelis book <em>The Power of Bras</em> (『ブラの力』) and annotated myself. Why did the stock virtual body fail? Because bodies preloaded in CAD are <strong>industrial bodies with a bit of ease built in</strong>. That means the boundary shown by the arrows in the image — the transition between the bust apex (バストトップ) and the underbust (アンダーバスト) — is smoothed into a gentle slope. That's what produced the flat cup.</p>
+<p>Of course, even the "real human body" (nude) is smoother than actuality. When a human body is scanned and converted into a virtual body, small bumps and hollows on the body are automatically excluded and smoothed out — because for drape drafting, a body with unnecessary lumpiness is hard to work with. Industrial bodies, after all, were made to make <em>clothes</em>, not underwear.</p>
+<p>At graduate school, we took chest molds using the <strong>plaster-bandage method</strong> (石膏包帯法). It's the most analog approach, but it can capture the boundary between the bust apex and the underbust sharply and faithfully. The trouble is that plaster bandaging is extremely cumbersome: it takes time, and the subject gets exhausted. That's why one inevitably wants to use 3D CAD — but unfortunately, at present, the girths you can deform in 3D CAD are limited to the neck, bust, waist, and hip. If it were possible to deform the <strong>underbust</strong>, I believe it could be applied to forming bras…</p>
+<p>Here is Wacoal's "Un Nanacool" (ウンナナクール) bra (image borrowed). As you can see, the cup is nearly flat — this is a plate-type (お皿型) bra. I own one myself, and I recommend it for people with smaller busts. It creates a beautiful décolleté line; I thought it was far more effective than pushing things up with pads. I'd recommend it for people up to a B cup, leaning C. But for larger busts, I think a cup with depth sits better.</p><div class="inline-source-images"><figure><img alt="Original article image 4" loading="lazy" src="../assets/armeria-marine-bra-considerations/04.jpg"/><figcaption>Original image 4 — <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">source article</a></figcaption></figure><figure><img alt="Original article image 5" loading="lazy" src="../assets/armeria-marine-bra-considerations/05.jpg"/><figcaption>Original image 5 — <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">source article</a></figcaption></figure></div>
+<p>Honestly, when I first encountered this bra, I was astonished that such a flat cup could produce a décolleté at all. My feeling is that small-busted women want to look bigger, and large-busted women want to look smaller — but bras for large busts are inevitably so big that they read "auntie" and not cute. Yet the way you construct the cup shape can change the entire presentation. Bras have real depth as a craft. Un Nanacool was a genuinely surprising piece of inverted thinking.</p>
+<hr/>
+<p class="meta">Why we archived it: the bowl / Fuji / plate cup taxonomy, the diagnosis that industrial ease erases the apex-to-underbust transition (the exact feature small-bust drafting needs), and the underbust limitation of 3D CAD are all directly relevant to small-frame bra making. Original term notes: お椀型 = bowl shape, 富士山型 = conical "Fuji" shape, お皿型 = flat "plate/dish" shape; 石膏包帯法 = plaster-bandage body casting; バージス/アンダーバスト = underbust.</p>
+
+<p class="image-permission">Original images are reproduced inline with permission and kept in source order. All image rights remain with their respective rights holders. <a href="https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/">View the original article.</a></p></article>
+</body>
+</html>

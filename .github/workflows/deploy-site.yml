@@ -1,0 +1,36 @@
+name: Deploy bra-research site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "netlify/functions/**"
+      - "netlify.toml"
+      - ".github/workflows/deploy-site.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: bra-research-production
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate static site
+        run: node scripts/validate-site.mjs
+      - name: Install Netlify CLI
+        run: npm install --global netlify-cli@24.0.1
+      - name: Deploy production site
+        run: netlify deploy --prod --no-build --message "GitHub ${GITHUB_SHA}"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}

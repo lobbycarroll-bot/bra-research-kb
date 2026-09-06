@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/><script>
+  (() => {
+    const param = new URLSearchParams(window.location.search).get("scoutTheme");
+    const theme =
+      param || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", theme);
+  })();
+</script>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Cup construction 1: seams and shapes — rysso_ (translated)</title>
+<style>
+:root {
+  color-scheme: light;
+  --cp-bg: #f7f4ef;
+  --cp-bg-elevated: #fcfbf8;
+  --cp-surface: #ffffff;
+  --cp-surface-soft: #f5f5f5;
+  --cp-border: #dedede;
+  --cp-border-strong: #919191;
+  --cp-text: #242424;
+  --cp-text-muted: #5c5c5c;
+  --cp-text-soft: #6f6f6f;
+  --cp-accent: #b11f4b;
+  --cp-accent-hover: #9a1a41;
+  --cp-accent-soft: rgba(177, 31, 75, 0.08);
+  --cp-accent-fg: #ffffff;
+  --cp-success: #16a34a;
+  --cp-danger: #dc2626;
+  --cp-warning: #f59e0b;
+  --cp-link: #0078d4;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+  --cp-overlay: rgba(255, 255, 255, 0.8);
+  --cp-panel: rgba(255, 255, 255, 0.86);
+  --cp-panel-strong: rgba(255, 255, 255, 0.96);
+  --cp-sheen: rgba(255, 255, 255, 0.55);
+  --cp-highlight: rgba(177, 31, 75, 0.12);
+}
+html[data-theme="dark"] {
+  color-scheme: dark;
+  --cp-bg: #3d3b3a;
+  --cp-bg-elevated: #343231;
+  --cp-surface: #292929;
+  --cp-surface-soft: #2e2e2e;
+  --cp-border: #474747;
+  --cp-border-strong: #5f5f5f;
+  --cp-text: #dedede;
+  --cp-text-muted: #919191;
+  --cp-text-soft: #b0b0b0;
+  --cp-accent: #fd8ea1;
+  --cp-accent-hover: #fb7b91;
+  --cp-accent-soft: rgba(253, 142, 161, 0.14);
+  --cp-accent-fg: #1a1a1a;
+  --cp-success: #4ade80;
+  --cp-danger: #f87171;
+  --cp-warning: #fbbf24;
+  --cp-link: #4da6ff;
+  --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+  --cp-overlay: rgba(41, 41, 41, 0.88);
+  --cp-panel: rgba(41, 41, 41, 0.72);
+  --cp-panel-strong: rgba(41, 41, 41, 0.96);
+  --cp-sheen: rgba(255, 255, 255, 0.04);
+  --cp-highlight: rgba(253, 142, 161, 0.12);
+}
+
+body { font-family:"Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif; background:var(--cp-bg); color:var(--cp-text); max-width:920px; margin:0 auto; padding:2rem 1.2rem 4rem; line-height:1.7; }
+h1 { font-size:1.65rem; color:var(--cp-accent); }
+h2 { font-size:1.2rem; color:var(--cp-accent); margin-top:2rem; }
+.meta { font-size:.85rem; color:var(--cp-text-muted); }
+.note { background:var(--cp-accent-soft); border-left:4px solid var(--cp-accent); padding:.75rem 1rem; font-size:.9rem; border-radius:0.625rem; }
+blockquote { border-left:3px solid var(--cp-border-strong); margin-left:0; padding-left:1rem; color:var(--cp-text-muted); font-style:italic; }
+a { color:var(--cp-link); }
+a:hover { color:var(--cp-accent-hover); }
+hr { border:none; border-top:1px solid var(--cp-border); margin:2rem 0; }
+.inline-source-images { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1rem; margin:1rem 0 2rem; }
+.inline-source-images.single { grid-template-columns:minmax(0,620px); }
+.inline-source-images figure { margin:0; padding:.6rem; background:var(--cp-surface); border:1px solid var(--cp-border); border-radius:0.625rem; box-shadow:0 0 2px var(--cp-border), 0 1px 2px var(--cp-border); }
+.inline-source-images img { display:block; width:100%; height:auto; border-radius:0.625rem; }
+.inline-source-images figcaption { margin-top:.5rem; color:var(--cp-text-muted); font-size:.82rem; }
+.image-permission { color:var(--cp-text-muted); font-size:.88rem; border-top:1px solid var(--cp-border); padding-top:.75rem; margin-top:2rem; }
+</style>
+</head>
+<body>
+<p><a href="../index.html">← Back to the collection</a></p>
+<article>
+<h1>Getting to know the bra — Cups (1): seams and shapes</h1>
+<p class="meta">
+Original: <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">브라에 대해 알아보자! - 컵(1) 편</a><br/>
+Author: rysso_ — Korean Naver blog on bra construction<br/>
+Language: Korean · Published 2019<br/>
+Translated from Korean by Lobby; all rights with the original author. Original images are reproduced inline with permission and attribution.
+</p>
+<p class="note">Translator's note: this is the clearest single taxonomy of cup construction we've found in any language. The seam running past the Bust Point is the design's DNA — horizontal (가로심), diagonal (대각선심), or vertical (세로심) — and it predicts projection, depth, and whether the cup suits a shallow or projected bust. Note especially: vertical-seam cups tend to be <strong>shallow</strong> (Cleo Juna/Marcie cited), 3-part cups project more than 2-part, and partial-seam cups appear mostly in <strong>small cups</strong>. The FOB/FOT guidance matches English communities — but here it's taught to a Korean retail audience.</p>
+<p>Hello, this is rysSO!</p>
+<p>This time, let's look at the types and shapes of cups. Cups divide broadly into two: <strong>moulded cups</strong> and <strong>non-moulded cups</strong>.</p>
+<h2>Moulded cups</h2>
+<p>A moulded cup is thicker than a non-moulded cup and has no seams. Because the cup material (something like sponge/foam) is heat-formed on a mold shaped like a breast, the cup's shape is definite — and it holds its shape even when you take the bra off.</p><div class="inline-source-images single"><figure><img alt="Original article image 1" loading="lazy" src="../assets/rysso-cup-seams-1/01.jpg"/><figcaption>Original image 1 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>Because a moulded cup has no seam lines and is smooth, it doesn't show the bra's structure through clothes and the Bust Point doesn't show through. So I prefer moulded cups under thin, stretchy tops. Another advantage: because the shape is fixed, for people with drooping breasts it gives a "lift" effect on the breast shape. (I'm on the droopy side myself, and honestly the moulded cup looks rounder and prettier than a seamed cup.)</p>
+<p>But since moulded cups are thicker, your bust may look a size bigger than it is. And you can't tell the cup's shape from the front alone — unlike a seamed cup, the shape doesn't jump out at you. Still, viewed from the side you can check the cup's projection and whether the upper cup edge is open or closed.</p><div class="inline-source-images single"><figure><img alt="Original article image 2" loading="lazy" src="../assets/rysso-cup-seams-1/02.jpg"/><figcaption>Original image 2 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<h2>Non-moulded cups</h2>
+<p>Non-moulded cups divide again into two: <strong>seamed cups</strong> (with seams) and <strong>seamless cups</strong> (without).</p>
+<p><strong>Seamless non-moulded cups</strong> don't fix the shape the way a moulded cup does — they conform to your natural breast shape instead. They appear mostly in bralettes, demi bras, and some sports bras, but because the Bust Point tends to show through, the styling options are more limited.</p>
+<p><strong>Seamed cups</strong> (I'll just call them seamed cups): because they have seams, they hold the breast shape somewhat more than seamless cups. And because many designs are possible depending on how the pieces are sewn together, they can be applied to many bra styles!</p><div class="inline-source-images"><figure><img alt="Original article image 3" loading="lazy" src="../assets/rysso-cup-seams-1/03.jpg"/><figcaption>Original image 3 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 4" loading="lazy" src="../assets/rysso-cup-seams-1/04.jpg"/><figcaption>Original image 4 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>Seamed cups classify broadly into three by the shape of the seam crossing the Bust Point: <strong>horizontal (가로심), diagonal (대각선심), and vertical (세로심)</strong>.</p>
+<h2>Horizontal seam (가로심)</h2>
+<p>The seam starts and ends inside the wire line. The strap attaches to the top of the cup, so the lifting effect isn't large; from the front it looks round, but from the side it makes a somewhat projected, cone-like cup. This varies with how you size and shape the upper and lower pieces, so many different shapes are possible. Since the seam starts and ends within the wire line, this design mostly appears with <strong>balcony wires or U-shaped wires</strong> (similar left/right wire lengths). Full-cup bras often have a horizontal seam, and strapless bras usually do too!</p><div class="inline-source-images"><figure><img alt="Original article image 5" loading="lazy" src="../assets/rysso-cup-seams-1/05.jpg"/><figcaption>Original image 5 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 6" loading="lazy" src="../assets/rysso-cup-seams-1/06.jpg"/><figcaption>Original image 6 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 7" loading="lazy" src="../assets/rysso-cup-seams-1/07.jpg"/><figcaption>Original image 7 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<h2>Diagonal seam (대각선심)</h2>
+<p>The seam starts at the armpit. You sometimes see it in plunge bras, and once in a while in full-cup bras in small sizes! A design with only a diagonal seam is rare — it's usually paired with a <strong>side panel</strong> (explained below). I looked it up: in the Pinup Girls patterns, the <strong>Classic</strong> and <strong>Shelley</strong> patterns use a diagonal seam.</p><div class="inline-source-images single"><figure><img alt="Original article image 8" loading="lazy" src="../assets/rysso-cup-seams-1/08.jpg"/><figcaption>Original image 8 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>(What are Pinup Girls patterns?? They're lingerie design patterns by Canada's Beverly V. Johnson, called the "wizard of bras." People buy her patterns and make bras at home, and many foreign lingerie companies reference her patterns too. There are patterns not only for bras but for panties, body shapers, swimwear, etc.; Classic and Shelley mentioned above are among them!)</p>
+<p>Basically, because the diagonal seam starts at the armpit, the strap must attach to the top of the cup — but as in the photos below, there's a variant where the seam's extension ends at the armpit while the seam itself bends partway, letting the strap attach to the lower cup. This is called a <strong>curved seam</strong>; in this case the breast gets support pulling it toward the center.</p><div class="inline-source-images"><figure><img alt="Original article image 9" loading="lazy" src="../assets/rysso-cup-seams-1/09.jpg"/><figcaption>Original image 9 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 10" loading="lazy" src="../assets/rysso-cup-seams-1/10.jpg"/><figcaption>Original image 10 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 11" loading="lazy" src="../assets/rysso-cup-seams-1/11.jpg"/><figcaption>Original image 11 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>Curved seams are used in most 3/4-cup bras, and most balcony bras seem to be this form. Also, in this seam pattern, the upper cup material is almost always stretchy lace.</p>
+<h2>Vertical seam (세로심)</h2>
+<p>The seam starts at the cup's neck-line area — inward of the strap. Because the breast receives sufficient support, wearing it gives a lifted shape. But cups like the left photo's vertical seam are often <strong>shallow</strong>. Looking at bras with "shallow" reviews, most have this vertical seam — <strong>Cleo's Juna and Marcie</strong> are typical. And because of the vertical seam's character, it can't cover the top of the cup, so it's mostly used in half-cup designs.</p><div class="inline-source-images"><figure><img alt="Original article image 12" loading="lazy" src="../assets/rysso-cup-seams-1/12.jpg"/><figcaption>Original image 12 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 13" loading="lazy" src="../assets/rysso-cup-seams-1/13.jpg"/><figcaption>Original image 13 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>The right-hand shape looks like a curved seam at a glance ㅠㅠ — but it's the <strong>3-part vertical seam</strong>! The difference: in a curved seam, the seam runs parallel to the upper cup edge, then bends sharply at the strap while the parallel extension runs to the armpit; in a 3-part vertical seam, the seam doesn't bend sharply — it continues to the end in a gentle curve. And while a curved seam's upper cup is usually stretchy lace, a 3-part vertical seam's upper cup is usually the same material as the lower cup.</p><div class="inline-source-images"><figure><img alt="Original article image 14" loading="lazy" src="../assets/rysso-cup-seams-1/14.jpg"/><figcaption>Original image 14 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 15" loading="lazy" src="../assets/rysso-cup-seams-1/15.jpg"/><figcaption>Original image 15 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<h2>2-part vs 3-part, side panels, and partial seams</h2>
+<p>All of horizontal, diagonal, and vertical seams come in 2-part and 3-part versions. With more pieces you can achieve a more three-dimensional form, so <strong>3-part cups project more than 2-part</strong>, and 3-part is used a lot for large cup sizes that need depth.</p>
+<p>Besides the three main seam types, there are <strong>partial-seam cups</strong> like the photos below. These mostly appear in <strong>small cups</strong>, and occasionally in bralettes!</p><div class="inline-source-images single"><figure><img alt="Original article image 16" loading="lazy" src="../assets/rysso-cup-seams-1/16.jpg"/><figcaption>Original image 16 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<p>Finally, the <strong>side panel</strong>: a cup with one is sometimes called a side-support bra — literally, a design that gathers the breast inward from both sides. It's usually used together with a diagonal seam; Panache's Jasmine and the Envy I reviewed before are typical side-panel bras!</p><div class="inline-source-images"><figure><img alt="Original article image 17" loading="lazy" src="../assets/rysso-cup-seams-1/17.jpg"/><figcaption>Original image 17 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure><figure><img alt="Original article image 18" loading="lazy" src="../assets/rysso-cup-seams-1/18.jpg"/><figcaption>Original image 18 — <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">source article</a></figcaption></figure></div>
+<h2>Which seam suits which breast</h2>
+<p>Depending on the pieces' shapes, seamed cups vary enormously — more or less projected, upper edge open or closed. So it's not absolute, but generally: <strong>FOB (full-on-bottom) suits horizontal seams, FOT (full-on-top) suits vertical seams</strong>; and if your breasts are <strong>shallow, look for 2-part cups</strong>; if <strong>projected, look for 3-part</strong> — that will tend to fit better.</p>
+<p>To say it once more: this is not an answer key! Given a cup's design and character, these are simply likelier matches. An FOB can suit a vertical-seam bra, and a projected bust can suit a 2-part cup too. :)</p>
+<hr/>
+<p class="meta">Translator's term notes: 몰드컵 = moulded (heat-formed foam) cup; 절개심/심 = seam (절개 = cut/seam line); 가로심 = horizontal seam; 대각선심 = diagonal seam; 세로심 = vertical seam; 컵 상변 = upper cup edge; 발코니 와이어 = balcony wire; 사이드 패널 = side panel; 반컵 = half cup. Why we archived it: a systematic, retail-audience explanation of how seam placement shapes cup volume and projection — including the shallow-bust guidance (vertical seams, 2-part) that is nearly absent from English-language bra-making content aimed at larger busts.</p>
+
+<p class="image-permission">Original images are reproduced inline with permission and kept in source order. All image rights remain with their respective rights holders. <a href="https://m.blog.naver.com/PostView.naver?blogId=rysso_&amp;logNo=221910351034">View the original article.</a></p></article>
+</body>
+</html>
