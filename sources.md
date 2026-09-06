@@ -11,7 +11,7 @@ All sources discovered across research passes. Quality rating 1–5 stars. Trans
 | rysso_ Naver — 컵(1) 편 | Korean | Blog | Cup seam taxonomy; shallow-bust guidance | https://m.blog.naver.com/rysso_/221910351034 | Translated |
 | armeria-marine | Japanese | Blog | Why flat drafting fails; cup shape taxonomy; plate cup | https://www.armeria-marine.com/2017/04/01/ブラジャーについての考察/ | Translated |
 | 한선미 속옷 디자인 연구소 (lina7792) | Korean | Professional blog | Custom drafting for Korean body types; 70B case study | https://m.blog.naver.com/lina7792 | — |
-| jimura.jp — wire dimension charts | Japanese | Notions shop | U/C/L wire h×w×l dimensions at small sizes | https://www.jimura.jp/product-list/38 | Only source publishing hobbyist-accessible wire geometry |
+| jimura.jp — wire dimension charts | Japanese | Notions shop | U/C/L relaxed span/depth/arc dimensions | https://www.jimura.jp/product-list/38 | Series discontinued; useful reference, not a production basis |
 | Bunka Fashion Grad Univ. (Dr. Ito) | Japanese | Academic | Plaster cast → washi paper → flat pattern method | https://dricomeye.net/02_kenkyu/kenkyu_140120.html | Patented 2011 |
 | Hans Publishers paper 66067 | Chinese | Academic | 3D virtual fitting + pattern correction with numbers | https://www.hanspub.org/journal/paperinformation?paperid=66067 | Quantified BPE 7→8.5cm correction |
 
@@ -72,10 +72,14 @@ All sources discovered across research passes. Quality rating 1–5 stars. Trans
 
 | Supplier | Country | Type | Dimension data? | Small sizes? | URL |
 |----------|---------|------|----------------|--------------|-----|
-| jimura.jp | Japan | Retail notions | ✅ Full h×w×l tables | ✅ Size 60–65 | https://www.jimura.jp/product-list/38 |
-| Bra Builders | US | Retail notions | ✅ Tip-to-tip only | Partial | https://www.brabuilders.com/pages/underwire-sizing |
+| jimura.jp | Japan | Retail notions | ✅ Relaxed span/depth/arc tables | ✅ Small wire numbers | https://www.jimura.jp/product-list/38 |
+| Emerald Erin | Canada / France | Retail notions | ✅ Printable 1:1 curves and family descriptions | ✅ France family suits shallow/splayed petite roots | https://shop.emeralderin.com/collections/underwires |
+| BraPartsShop | Japan | Retail notions | ✅ Span/depth/arc and cross-section for current L family | ✅ Recommends wide wire plus reduced cup height below chart | https://braparts.theshop.jp/items/135902443 |
+| Bra Builders | US | Retail notions | Partial published dimensions | Partial | https://www.brabuilders.com/pages/underwire-sizing |
 | Bra-Makers Supply | Canada | Retail notions | ❌ Not published | Unknown | https://braandcorsetsupplies.com |
 | Hanstex / Made-in-China | China | OEM factory | Cross-section only | ✅ Custom | https://nbhans.en.made-in-china.com |
+| Jiaxin Garment Accessories | China | OEM component factory | ❌ No public curve table; sample/spec customization | ✅ Custom curve and size | https://jiaxinfuzhuang.com/ |
+| Xingyi Lingerie Accessories | China | OEM component factory | ❌ No public curve table; arbitrary shape/spec advertised | ✅ Custom; indexed MOQ 2,000 pieces | https://cn.diytrade.com/china/pd/10479265/U%E5%9E%8B%E9%92%A2%E6%89%98.html |
 
 ---
 
