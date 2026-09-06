@@ -1,118 +1,135 @@
-# Wire Geometry: Asian vs Western Suppliers
+# Underwire Geometry: Japanese and Western Systems
 
-## Key Finding
-Western bra-making wire suppliers offer **only one geometry per nominal size**. The narrow-root wire shapes designed for Asian body proportions are not listed in any Western catalog. They exist — jimura.jp publishes the exact dimensions — but you cannot buy them from Bra-Makers Supply or Bra Builders.
+**Status checked:** 2026-09-06. This revision replaces the earlier binary “Asian narrow wire vs Western wide wire” account.
 
----
+## Executive correction
 
-## Wire Shapes (Japanese Taxonomy from jimura.jp)
+There is no single Asian wire shape and no single Western wire shape. Current Western specialist Emerald Erin sells at least seven geometries, including a **France** wire explicitly described as shallow, splayed, short and especially useful for petite/small cups. Japanese supplier Jimura sells U-, C- and L-type curves with full-size samples and published dimensions.
 
-| Type | Cup style | Root width | Arc | Notes |
-|------|-----------|-----------|-----|-------|
-| U型 (U-type) | ½ cup / strapless | Wide | Symmetrical | Both arms equal length |
-| C型 (C-type) | Standard ¾ cup | Medium | Asymmetrical | Most common |
-| L型 (L-type) | ½ cup, narrow-root | **Narrow** | Asymmetrical, shorter | Key shape for small/wide-set busts |
+The useful comparison is therefore **curve against curve on Jum's body**, not country against country and not the number printed on a wire.
 
-### Actual Dimensions at Size 65 (underbust ~65cm range)
-From jimura.jp:
+Also:
 
-| Type | Height (h) | Width (w) | Length (l) | Notes |
-|------|-----------|-----------|-----------|-------|
-| U-type ABC65 | 10.5 cm | 6.4 cm | 18.7 cm | Standard ½ cup |
-| L-type ABC65 | 10.8 cm | **5.3 cm** | **16.6 cm** | Narrow root; ~1.1cm narrower, ~2.1cm shorter |
+- **Wide-set** describes the spacing between the breasts. It does not establish whether each breast root is narrow, medium or wide.
+- Cup volume and band size are only starting guesses for a wire. The inframammary-fold (IMF) trace, torso curvature, wire length, end heights and spring determine the fit.
+- A wire's unforced width/height box does not fully describe it. Two curves can share those dimensions and differ through the lower arc and at the tips.
 
-The L-type at the same nominal size is **substantially narrower and shorter** — this is the wire geometry for a narrow-set, shallow root.
+## Jum: current reference data
 
-### Selection Rule (jimura)
-Band + cup → wire number. Example: 75D → wire #85. Curve shape, not just length, is the fit criterion. Wire curves vary significantly between manufacturers at the same number.
+- Known-good garment: Pepper style `BRA036`, size S.
+- New body measurements (2026-09-06): **78.0 cm snug underbust; 81.5 cm standing/apex bust**.
+- Wacoal's chart places 78 cm underbust in its **80 band** interval (77.5–82.5 cm), not 65. The 3.5 cm standing difference is smaller than Wacoal's nominal AAA step (about 5 cm), so no Japanese cup letter should be asserted from this two-number measurement alone.
+- Jum previously trialled Emerald Erin wires and found one that fit reasonably well and resembled the Pepper wire. **Its style and wire number are not yet recorded.** That identifier—or a physical trace of the wire—is now the most valuable missing datum.
 
-### Wire sources
-- **Detailed dimension charts, hobbyist-accessible:** jimura.jp (Japan) only
-  - Wire catalog: https://www.jimura.jp/product-list/38
-  - U-type: https://www.jimura.jp/product/400
-  - L-type: https://www.jimura.jp/product/430
-  - Size chart: https://www.jimura.jp/product/419
-  - Ordering: needs Japan proxy (Buyee, White Rabbit Express, Tenso) — jimura doesn't ship internationally
+Do not convert the body measurement into “Jimura wire 80.” Jimura's wire number is a curve/size index, not the band number. Jimura's own example maps a 75D bra to its wire number 85.
 
----
+## Geometry variables to record
 
-## Western Suppliers: What They Offer
+| Variable | Why it matters |
+|---|---|
+| Full wire/IMF trace | Captures the curve, not just a bounding box |
+| Arc length | Determines how far the wire travels around the root |
+| Maximum width and height | Useful for coarse screening |
+| Inner- and outer-tip heights | Controls gore and underarm compatibility |
+| Lower-arc shape | Distinguishes round, flat-bottomed and oval roots |
+| Splay/asymmetry | Shows whether the outer arm opens differently from the center arm |
+| Wire spring under load | Determines how the wire opens in the worn band/cradle |
+| Steel section/stiffness | Affects comfort, stability and how much the band can deform the curve |
+| Tip orientation and length | Affects channel clearance and pressure at gore/underarm |
 
-### Bra Builders (brabuilders.com)
-- Publishes dimension chart: https://www.brabuilders.com/pages/underwire-sizing
-- Size 32 = 7.5" tip-to-tip × 4.625" width × 3" depth, scaling up proportionally
-- **Only one geometry per size** — no narrow-root variant
-- No country of origin disclosed
+## Emerald Erin: current Western comparison family
 
-### Bra-Makers Supply (braandcorsetsupplies.com)
-- Claims "over 100 shapes, sizes, and styles," #30–#60
-- States "made to our exact specifications" — OEM resale language
-- **No dimension tables published** on any category or product page
-- No country of origin disclosed
-- "Made to spec" + no origin disclosure = inference: Chinese OEM manufacture
+Emerald Erin's fitting-pack descriptions provide a useful shape taxonomy:
 
-### Verdict
-Western catalogs: narrow-root geometry does not exist in their offering. This is not a labeling issue — it is an offering gap. The L-type wire (narrow root, shorter arc) appears to simply not be ordered by Western suppliers.
+| Style | Supplier description | Relevance to Jum |
+|---|---|---|
+| **France** | Splayed and shallow; shorter and low at center and underarm; particularly suited to petite/small cups where classic wires are too narrow and long | First geometry to compare if the known-good wire was France |
+| **Orange** | Classic day-bra; relaxed outer splay; medium center height | General baseline |
+| **Round** | Full coverage; higher center; less outer splay than Orange | Taller/rounder control |
+| **Carmen** | Extra width and taller center; similar inner and outer heights | Strapless/balcony-style control |
+| **Plunge** | Low center with regular outer height | Low-gore control |
+| **Bliss** | Deeper/narrower, vertical center, narrow bridge; intended for larger cups/small ribcages | Probably low priority unless the trace shows a narrow projected root |
+| **Omega** | Very tall and narrow; specialty large-bust geometry | Negative control, not a likely starting point |
 
----
+Emerald Erin fitting packs contain three consecutive sizes in a chosen style. The wires are made in France from 24-gauge flat steel, nickel-free and PET coated. Printable full-size charts are available and should be printed at 100% after verifying the page scale.
 
-## Chinese Manufacturers
+## Jimura: Japanese comparison family
 
-### Made-in-China.com / Alibaba
-- **Hanstex** (Ningbo Hoba International Trading, Zhejiang): https://nbhans.en.made-in-china.com/product/gejxCnRAYShr/
-  - Publishes cross-section specs (1.0×3.0mm to 2.0×0.4mm wire stock); customization available
-  - Production capacity: 3,000,000 pairs/month
-  - Packing: 50 pcs/bundle; MOQ inquiry-based
-- Other factories (chunwa, thrivesh, etc.) similarly offer "all sizes / customise to spec"
-- **Key limitation:** Chinese factories publish wire gauge/cross-section but NOT the shape dimension chart (h×w×l). You must provide your target dimensions. This is OEM territory, not retail.
-- Minimum orders: dozens to cartons typically; trial lots sometimes negotiable but not guaranteed
+Jimura publishes width, height and arc length, and sells both full-size paper copies and sample sets. At the time checked, the sample listing was marked for discontinuation when stock is exhausted; C75 was already unavailable.
 
-### What you'd need to order from China
-1. Know the exact h×w×l you want (use jimura's L-type 65 as starting spec: 10.8h × 5.3w × 16.6l cm)
-2. Specify wire gauge (e.g., 1.0×3.0mm cross-section = standard bra underwire)
-3. Specify coating (nylon-coated, stainless, etc.)
-4. Request sample lot (may be 50–100 pairs)
+### Published dimensions
 
-This is feasible but requires more friction than ordering from jimura.
+Dimensions below are the supplier's unforced bounding height × width and arc length.
 
----
+| Jimura number | U type | L type |
+|---:|---:|---:|
+| 65 | 105 × 64 mm; 187 mm arc | 108 × 53 mm; 166 mm arc |
+| 70 | 111 × 68 mm; 199 mm arc | 114 × 58 mm; 180 mm arc |
+| 75 | 116 × 72 mm; 212 mm arc | 120 × 63 mm; 194 mm arc |
+| 80 | 123 × 76 mm; 224 mm arc | 128 × 68 mm; 208 mm arc |
 
-## Practical Wire Sourcing Path for Jum
+The C page displays the same width/height/length table as L, but that does **not** prove the curves are interchangeable. Use the full-size outlines to compare their lower arcs and tip paths.
 
-**Immediate (try first):** Order L-type 65 (and 70) from jimura.jp via Japan proxy
-- Retail purchase, 2-wire sets, known dimensions, published size chart
-- Best starting point to test narrow-root geometry against current wires
+### What the Japanese samples add
 
-**Medium-term (if custom shape needed):** Specify dimensions to a Chinese factory via Alibaba/Made-in-China
-- Use jimura's L-type as the baseline spec
-- Adjust if testing reveals needed changes
-- Expect 50+ pair MOQ and 2–3 week lead time
+The value is not an assumed ethnicity-specific fit. They add:
 
-**Korean/Taiwan:** B2B only; no retail dimension charts found; not worth pursuing at this stage
+1. inexpensive, documented alternative curve families;
+2. full-size outlines that can be overlaid on an IMF or existing wire;
+3. a Japanese patternmaking reference system for later cup/cradle drafting;
+4. possible differences in steel stiffness, tip geometry and spring that dimensions alone cannot show.
 
----
+## Recommended experiment and shopping list
 
-## Wire Geometry and Breast Root Shape
+### Stage 1 — preserve the known-good evidence
 
-The wire arc defines the base of the cup — the "footprint" of the bra on the torso. For a wide-set, shallow breast:
-- The wire must span the full breast root width without extending past it into side tissue
-- The wire height (gore side) must not exceed the distance from the breast's lower edge to the sternum
-- A narrow-root wire (L-type) has a shorter outer arm — it doesn't dig into side tissue
+1. Identify the Emerald Erin **style and wire number** that Jum liked. Check packaging/order history; otherwise trace it and compare it to Emerald Erin's printable charts.
+2. Trace both sides of the loose wire, unforced, on paper. Mark the colored/center-front tip if present.
+3. Trace the Pepper `BRA036` channel without removing the wire: flatten one cup at a time without distorting the band, mark center and underarm ends, and note the channel's extra clearance.
+4. Record whether the loose Emerald Erin wire matched Pepper while relaxed or only when sprung/opened.
 
-Standard Western wires, sized for the average Western client, extend further under the arm and are wider at the root. This explains the red wire marks at the outer cup edge that 한선미 연구소 documented — the outer wire is landing past the breast root.
+### Stage 2 — buy Japanese references before stock disappears
 
----
+- Jimura **actual-size paper copy of all U/C/L sizes** — ¥440 at time checked; highest-value first purchase.
+- Jimura **L full-size sample set** — ¥440, low stock when checked.
+- Jimura **U full-size sample set** — ¥440, low stock when checked.
+- Combined U/C/L set only if useful despite missing C75; C is explicitly being discontinued/stock-limited.
+- After overlaying the paper curves, add 2–3 pairs around each closest match. U and L individual pairs were ¥198 when checked.
 
-## Wire Selection from Cup Geometry
+Because international/proxy shipping will dominate the wire price, place these with a larger Japanese order. Confirm whether the proxy accepts long steel notions and whether Jimura will ship to its warehouse before paying.
 
-**Chinese/Japanese industry method: draft the cup FROM the wire, not the body.**
-1. Select the wire first (based on body measurement)
-2. Use the wire arc length as the cup bottom length + 1.5cm channel allowance
-3. Draft the cup pieces from the wire arc
+### Stage 3 — compare consistently
 
-This is the drafting default documented in:
-- 亚太服装学校 Bilibili lecture (BV1ib4y1i7Cj)
-- Sina blog 文胸纸样设计及生产过程
-- 《内衣纸样设计原理与实例》 textbook
+For every candidate:
 
-In contrast, Western hobbyist patterns (Pinup Girls, etc.) typically start from body measurements and add the wire afterward.
+1. photograph/scan it on 5 mm graph paper with a ruler;
+2. record unforced width, height, arc length and tip heights;
+3. spread it to the intended cradle width and record the force or hanging weight needed;
+4. overlay it on the Pepper trace and Jum's IMF/root trace;
+5. reject any wire that sits on breast tissue or travels materially beyond the root, even if its nominal size sounds correct;
+6. test the surviving curve in a simple band/cradle before drafting the final cup.
+
+## Decision logic
+
+- If the known-good Emerald Erin wire is France and overlays the IMF well, the working lesson is that a Western supplier already offers the shallow/splayed/petite geometry needed. Japanese samples remain valuable for construction and spring comparisons, not because “Asian” is intrinsically better.
+- If a Jimura L/C/U curve follows the lower root or tips better, use that physical curve as the cradle master and select the cup design around it.
+- If Pepper and the loose wire differ, treat Pepper's **worn** curve as a band-plus-wire system; measure spring before copying either component in isolation.
+
+## Claims not established
+
+- Jum has not yet been shown to need a narrow-root wire.
+- “Asian bodies need Asian wires” is not established; within-population shape variation is large.
+- A Jimura number matching a Japanese band number is not evidence of fit.
+- The latest 78/81.5 cm circumference pair does not by itself identify cup shape, root width or the correct wire.
+
+## Sources
+
+- Emerald Erin underwire collection (seven current geometries): https://shop.emeralderin.com/collections/underwires
+- Emerald Erin fitting pack and shape descriptions: https://shop.emeralderin.com/products/underwire-fitting-pack-find-your-perfect-size
+- Emerald Erin full-size charts: https://shop.emeralderin.com/pages/underwire-charts
+- Emerald Erin France wire: https://shop.emeralderin.com/products/france-underwires
+- Jimura U type: https://www.jimura.jp/product/400
+- Jimura C type: https://www.jimura.jp/product/401
+- Jimura L type: https://www.jimura.jp/product/430
+- Jimura full-size copies/sample sets and size-grid warning: https://www.jimura.jp/product/419
+- Wacoal official bra size chart: https://store.wacoal.jp/size/chart/size5116.html
