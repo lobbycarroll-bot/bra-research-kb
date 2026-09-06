@@ -59,23 +59,35 @@ Industrial dress forms and CAD virtual bodies have **ease built in**. This smoot
 
 ---
 
-## Plate Cup / Dish Cup (お皿型) — The Specific Solution
+## Plate / Dish Cup (お皿型) — Construction Idea vs Retail Evidence
 
-The お皿型 is explicitly designed for shallow/small busts. It works on a different principle from standard cups:
+The お皿型 concept is explicitly associated in the Japanese construction source with shallow/small busts. It works on a different principle from a strongly projected cup:
 
-- Rather than creating projection (pushing tissue outward), it *contains* tissue spread across a flat or gently curved surface
+- Rather than creating projection, it contains tissue spread across a flatter or gently curved surface
 - The fabric sits against the breast root's actual surface
-- Despite being nearly flat, it creates a décolleté because it cradles the breast's natural width
-- Explicitly recommended by Japanese sources for busts up to B–C
+- A broad, shallow surface can cradle natural width without demanding upper fullness
 
-**Why absent from Western retail:** US retail markets projection as "support"; plate cups are invisible in the catalog or marketed as bralettes.
+Do **not** automatically label a current retail bra “plate cup” unless the maker does so or the geometry has been measured. The earlier claim that Une Nana Cool broadly represents this construction—and that `ふゆうする` is its A/AA small-bust flagship—was not supported by the live catalog.
 
-### Available examples
-- **Wacoal ウンナナクール** (JP only) — flagship plate cup. ふゆうする (fuyūsuru) line uses a stretchy ほわピタカップ (howa-pita cup) that conforms to the breast. Currently the 小胸 (small bust) flagship line.
-  - Not sold in US; order via Buyee/Tenso proxy from Japanese Wacoal or Amazon.co.jp
-- **Wacoal America Shape Revelation Shallow Top T-Shirt Bra (853387)** — closest US equivalent; designed for "shallow top / full bottom" distribution
-- **Pepper All You Bra** — US brand, AA–B only, geometry designed for small busts (not scaled-down large-bust pattern). Molded cups, but geometry is accurate. The "wires are a useful reference" even if the molded cup itself isn't the plate style.
-- **The Little Bra Company** — narrower wires and closer-set cups for petite frames; 32AA–38C
+### Current Une Nana Cool fit evidence (checked 2026-09-06)
+
+- **364 Bra:** strongest small-bust consumer evidence. Very small, thin, post-nursing, and outward-set wearers repeatedly report that its upper edge does not gape. The current Liberty JB3570 maps S to **A65/B65**. It is wireless and molded, so it is a fit reference rather than proof of a literal plate-cup construction.
+  - Current Liberty product: https://store.wacoal.jp/disp/01_JB3570.html
+  - Detailed consumer reviews: https://review.rakuten.co.jp/item/1/356121_10001147/1.1/
+  - Outward-set B65/S review: https://shopping.yahoo.co.jp/products/z4emucb2u5
+- **Bitter Dot Cotton JB2780:** strongest current wired fit candidate. Small-bust specialist Feast describes a shallower-than-typical cup and a stretch-lace upper edge that is less likely to float. Caveat: the 65 belt runs relatively tight/short. Live sizing begins at B65.
+  - https://store.wacoal.jp/disp/01_JB2780.html
+  - https://feast.tokyo/blogs/news/unenanacool-fb2023
+- **Fuyū-suru JB2400:** stretchy `ほわピタカップ` is marketed for upper-edge gaping and added volume, making it a useful construction experiment. However, the live selector begins at **B65**, not A65/AA65, and sampled consumer reviews were not concentrated on very small cup volumes. Do not call it the verified small-bust flagship or a plate cup.
+  - https://store.wacoal.jp/disp/01_JB2400.html
+  - https://www.une-nana-cool.com/blog/202305/-youtubefuyousuru.php
+- **BRAGENIC JB3840:** a volume-building comparator, not a neutral shallow baseline. Its molded cup adds volume; one detailed small-bust reviewer reports its upper edge floated where 364 did not.
+
+### Other available examples
+
+- **Wacoal America Shape Revelation Shallow Top T-Shirt Bra (853387)** — designed for shallow-top/full-bottom distribution; useful US comparison
+- **Pepper All You Bra** — AA–B-specific geometry and the current known-good family reference. Molded rather than a literal plate cup, but valuable for wire/cup measurements.
+- **The Little Bra Company** — petite-frame comparison with narrower wires and closer-set cups; 32AA–38C
 
 ---
 
