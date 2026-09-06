@@ -30,18 +30,29 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 | 4 | **BRAGENIC Happy Bloom** (JB3840) | **B65 in stock in black**; beige B65 awaiting restock; no A65 | ¥3,630 | Wireless molded comparison. Double-Up molded cup adds volume; wide internal sheet resists lateral spread; stretch-lace upper edge. Useful to reverse-engineer *volume-building*, but not a neutral shallow-cup baseline. One color is enough. | https://store.wacoal.jp/disp/01_JB3840.html |
 | 5 | **さあ、わたし Simple** (JB2310) | **B65 in stock**; no A65/AA65 | ¥3,960 | Wired 3/4 cup with wider wire, high sides/back smoothing, side support and a thick “puffy” pad specifically in B cups. Useful engineered control, but less neutral than JB2780. | https://store.wacoal.jp/disp/01_JB2310.html |
 
-## Liberty collaboration: what to buy and what to skip
+## Liberty collaboration: what to buy and what each teaches us
 
-### Buy
+### Conditional first choice for construction: JB2323 `さあ、わたし` in B75
 
-- **JB3570, size S** — current renewed Liberty 364. Four current colors were shown and S was selectable/in stock on the checked page. Pattern names include Meadow Muse Display and Godwin.
+- Current wired 3/4-cup Liberty model; official page lists B75 and ZOZOTOWN showed B75 inventory when checked.
+- More informative than 364 for reverse engineering: wide wire, internal cup-side support, high-side/back smoothing, removable pad, and cup-size-specific shaping. The B cup uses a thick rounded pad to create a more defined silhouette.
+- Strong official rating (4.7/19 when checked). A low-volume reviewer of the preceding JB2320 version reported no empty cup space, an attractive print, and comfortable middle-ground support.
+- **Limit:** begins at B70 and is not a verified plate or vertical-seam cup. Buy only if Jum's measurements support Japanese B75.
+- Official: https://store.wacoal.jp/disp/01_JB2323.html
+- ZOZO/Buyee listing: https://zozo.jp/shop/unenanacool/goods/104822073/
 
-### Skip or monitor
+### Complementary choice for comfort and appearance: JB3570 364 Liberty
 
-- **JB3523** — previous Liberty 364 version. S was sold out in every checked color and Wacoal says it will not be reproduced. https://store.wacoal.jp/disp/01_JB3523.html
-- **JB2323** — Liberty `さあ、わたし` wired 3/4 cup. Current checked color had no B65; smallest in-stock 65-band size was C65, which is too much volume for the present target. https://store.wacoal.jp/disp/01_JB2323.html
-- **JB3950 Night-Up Bra** and **LB1082 cotton triangle bra** may be pleasant Liberty garments, but are low priority for reverse engineering because they do not isolate the everyday cup/wire geometry being studied.
+- One-piece Elc® moulded cup; useful for studying flexible fit, lightness, outer lace treatment, high sides and lift-vector placement.
+- Consider M if A75 is confirmed, or L if B75 is confirmed and that color is stocked.
+- It does **not** answer the vertical-seamed plate-cup question.
+- https://store.wacoal.jp/disp/01_JB3570.html
 
+### Older or lower-priority Liberty pieces
+
+- **JB2320:** preceding wired `さあ、わたし` Liberty version. Official stock is nearly exhausted, but third-party Japanese stores showed B75 remaining. Useful only if substantially cheaper than JB2323.
+- **JB3523:** previous 364 Liberty version; old alpha-size mapping and shrinking stock make JB3570 preferable.
+- **JB3950 Night-Up** and triangle bralettes are attractive comfort pieces but lower priority for learning everyday cup/wire geometry.
 ## Recommended first order
 
 1. **JB3570 in S** — best-supported consumer-fit trial and the best match to Jum's Liberty preference. Current S explicitly covers A65/B65.
