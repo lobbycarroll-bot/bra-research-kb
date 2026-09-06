@@ -19,7 +19,8 @@ Also:
 - Known-good garment: Pepper style `BRA036`, size S.
 - New body measurements (2026-09-06): **78.0 cm snug underbust; 81.5 cm standing/apex bust**.
 - Wacoal's chart places 78 cm underbust in its **80 band** interval (77.5–82.5 cm), not 65. The 3.5 cm standing difference is smaller than Wacoal's nominal AAA step (about 5 cm), so no Japanese cup letter should be asserted from this two-number measurement alone.
-- Confirmed successful loose wire: **Emerald Erin France, size 36**. Jum reports most other wires feel too U-shaped and too narrow. France 36 is therefore the current geometric control, not merely a nominal-size starting point.`n- Emerald Erin publishes France 36 at **172 mm arc length**. Measurement from the official 100%-scale PDF gives an approximate relaxed centerline span of **119 mm** and cup depth of **36 mm**; retain these as chart-derived estimates until the physical wire is measured.
+- Confirmed successful loose wire: **Emerald Erin France, size 36**. Jum reports most other wires feel too U-shaped and too narrow. France 36 is therefore the current geometric control, not merely a nominal-size starting point.
+- Emerald Erin publishes France 36 at **172 mm arc length**. Measurement from the official 100%-scale PDF gives an approximate relaxed centerline span of **119 mm** and cup depth of **36 mm**; retain these as chart-derived estimates until the physical wire is measured.
 
 Do not convert the body measurement into “Jimura wire 80.” Jimura's wire number is a curve/size index, not the band number. Jimura's own example maps a 75D bra to its wire number 85.
 
@@ -55,7 +56,7 @@ Emerald Erin fitting packs contain three consecutive sizes in a chosen style. Th
 
 ## Jimura: Japanese comparison family
 
-Jimura publishes width, height and arc length, and sells both full-size paper copies and sample sets. At the time checked, the sample listing was marked for discontinuation when stock is exhausted; C75 was already unavailable.
+Jimura publishes tip span, cup depth and arc length, and sells both full-size paper copies and sample sets. At the time checked, the sample listing was marked for discontinuation when stock is exhausted; C75 was already unavailable.
 
 ### Published dimensions
 
@@ -109,7 +110,8 @@ The value is not an assumed ethnicity-specific fit. They add:
 - Jimura **L full-size sample set** — ¥440, low stock when checked.
 - Jimura **U full-size sample set** — ¥440, low stock when checked.
 - Combined U/C/L set only if useful despite missing C75; C is explicitly being discontinued/stock-limited.
-- BraPartsShop **Japanese-made L wires no. 4 and no. 5** — ¥330/pair; currently in stock with international shipping shown. No. 5 matches France 36's 172 mm arc exactly but is far deeper, making it an unusually clean shape-vs-length experiment.`n- After overlaying the curves, buy physical pairs only where the paper trace adds information. Jimura individual pairs were ¥198 when checked.
+- BraPartsShop **Japanese-made L wires no. 4 and no. 5** — ¥330/pair; currently in stock with international shipping shown. No. 5 matches France 36's 172 mm arc exactly but is far deeper, making it an unusually clean shape-vs-length experiment.
+- After overlaying the curves, buy physical pairs only where the paper trace adds information. Jimura individual pairs were ¥198 when checked.
 
 Because international/proxy shipping will dominate the wire price, place these with a larger Japanese order. Confirm whether the proxy accepts long steel notions and whether Jimura will ship to its warehouse before paying.
 
@@ -146,5 +148,6 @@ For every candidate:
 - Jimura U type: https://www.jimura.jp/product/400
 - Jimura C type: https://www.jimura.jp/product/401
 - Jimura L type: https://www.jimura.jp/product/430
-- Jimura full-size copies/sample sets and size-grid warning: https://www.jimura.jp/product/419`n- BraPartsShop Japanese-made L wire with dimension table: https://braparts.theshop.jp/items/135902443
+- Jimura full-size copies/sample sets and size-grid warning: https://www.jimura.jp/product/419
+- BraPartsShop Japanese-made L wire with dimension table: https://braparts.theshop.jp/items/135902443
 - Wacoal official bra size chart: https://store.wacoal.jp/size/chart/size5116.html
