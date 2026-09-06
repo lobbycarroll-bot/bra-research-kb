@@ -87,6 +87,21 @@ All sources discovered across research passes. Quality rating 1–5 stars. Trans
 | Lulalu | US | 34AA; padding-optional; small-bust design | AA–B | https://www.lulalu.com/collections/34aa-cup-bras |
 | The Little Bra Company | US | Narrower wires; petite frame | 32AA–38C | https://www.thelittlebracompany.com/collections/bras/34aa |
 | Little Women UK | UK | Specialist small-bust shop; underwired options | 34AA | https://www.littlewomen.com/en-us/collections/34aa-bras-for-small-busts |
-| Wacoal ウンナナクール | Japan | Plate cup (お皿型); ideal for shallow small busts | 65/70 JP sizing | Needs proxy: Buyee/Tenso |
+| Wacoal ウンナナクール | Japan | 364 has strong anti-gaping consumer evidence; Bitter Dot is a shallow wired comparator | Current JB3570 S = A65/B65; most wired styles start B65 | https://store.wacoal.jp/brand/unenanacool/ | WorldShopping integrated; Buyee/Tenso/Amazon JP are alternatives. Do not label the whole brand “plate cup.” |
 | Wacoal Shape Revelation 853387 | US | Shallow-top design; closest US equivalent | Standard | https://www.barenecessities.com |
 | Natori Feathers Contour Plunge | US | Ultra-shallow molded cups | Check 34 band | https://www.herroom.com |
+
+---
+
+## Japanese Consumer-Fit Evidence
+
+These sources are useful for purchase triage, not drafting authority. Individual fit reports are anecdotal; recurring agreement across different wearers is the signal.
+
+| Source | Language | Type | Product / signal | Quality | URL | Notes |
+|--------|----------|------|------------------|---------|-----|-------|
+| Rakuten Fashion reviews | Japanese | Verified-purchase marketplace reviews | Une Nana Cool 364 Simple; repeated reports from very thin, tiny, and post-nursing busts that the upper edge does not gape | ⭐⭐⭐ | https://review.rakuten.co.jp/item/1/356121_10001147/1.1/ | Includes direct comparison where BRAGENIC floated but 364 did not; older alpha-size mapping may differ |
+| Yahoo Shopping reviews | Japanese | Marketplace reviews | 364 Lace; outward-set B65/S wearer reports no gap and calls it small-bust friendly | ⭐⭐⭐ | https://shopping.yahoo.co.jp/products/z4emucb2u5 | Older discontinued version; fit evidence is useful, current sizing must come from live product page |
+| LEE consumer column | Japanese | Lifestyle first-person review | 364 Simple; very small bust does not gape, natural rather than heavily pushed-up silhouette | ⭐⭐⭐ | https://lee.hpplus.jp/column/3033496/ | One wearer, independent editorial context |
+| Feast | Japanese | Small-bust specialist retailer article | Bitter Dot Cotton; shallower cup, stretch-lace edge less likely to float, 65 band relatively tight | ⭐⭐⭐ | https://feast.tokyo/blogs/news/unenanacool-fb2023 | Specialist expertise, but retailer has a commercial interest |
+| Une Nana Cool commune | Japanese | Manufacturer/PR blog | Fuyū-suru marketed for cup-edge floating and added volume | ⭐⭐ | https://www.une-nana-cool.com/blog/202305/-youtubefuyousuru.php | Useful product intent, not independent evidence |
+| Wacoal Web Store | Japanese | Official live catalog | Current sizes, product construction, prices and stock | ⭐⭐⭐⭐ | https://store.wacoal.jp/brand/unenanacool/ | Authoritative for current SKU facts; not independent fit validation |
