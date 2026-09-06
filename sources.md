@@ -135,3 +135,11 @@ These sources are useful for purchase triage, not drafting authority. Individual
 | [Jimura U/C/L full-size samples](https://www.jimura.jp/product/419) | Japan | Supplier technical/sample listing | Full-size copies and physical sets; warns numbers are recommendations and manufacturer curves differ; discontinuing when stock exhausts |
 | [Jimura U type](https://www.jimura.jp/product/400) / [L type](https://www.jimura.jp/product/430) | Japan | Dimensioned supplier listings | Published height, width and arc length for comparison |
 | [Wacoal official bra size chart](https://store.wacoal.jp/size/chart/size5116.html) | Japan | Manufacturer size standard | 78 cm underbust falls in 80 band; AAA is nominally about 5 cm difference |
+### Additional shallow/L-wire sources (checked 2026-09-06)
+
+| Source | Region | Type | Why it matters |
+|---|---|---|---|
+| [BraPartsShop Japanese-made L wire](https://braparts.theshop.jp/items/135902443) | Japan | Dimensioned component supplier | In-stock sizes 4–12; publishes span, depth and arc; international shipping shown |
+| [Wacoal Junior CFX387](https://store.wacoal.jp/disp/01_CFX387.html) | Japan | Finished garment | Uses a soft resin L wire explicitly described as a shallow/gentle curve; A80 is listed |
+| [Feast Cinderella/Natural wire bra](https://feast.tokyo/products/cinderella-fitwirebra-casual) | Japan | Small-bust specialist garment | Manufacturer explicitly describes a soft, deliberately shallow wire; current sizes only AA60/A60/B60, so construction reference rather than Jum fit candidate |
+| [HEAVEN Japan wire taxonomy](https://shop.heaven-jp.co.jp/blogs/contents/bra-basicknowledge-002) | Japan | Retail technical explainer | Distinguishes common Japanese U, low-center L and 3D body-curved wires; shows that L denotes function/tip path, not necessarily shallow overall curvature |
