@@ -2,9 +2,9 @@
 
 **Purpose:** Durable, model-readable research archive. Feed any subset of these files as context to a powerful model to continue or deepen the research.
 
-**Subject:** Asian-language (JA/KO/ZH) bra-making and corsetry knowledge, with emphasis on small-bust, small-frame, shallow-breast geometry — the demographic underserved by English-language communities.
+**Subject:** Asian-language (JA/KO/ZH/TH/VI) bra-making, consumer-fit and corsetry knowledge, with emphasis on low-volume busts, small frames, shallow geometry and controllable silhouette.
 
-**Research subject:** Steve's wife Jum (Discord: <@645323102380752916>). Asian, small-busted and small-framed. Latest direct measurements (2026-09-06): 78.0 cm snug underbust and 81.5 cm standing/apex bust. Wacoal chart band: 80; cup letter unresolved because the 3.5 cm difference is below its nominal AAA step. Known-good garment: Pepper BRA036 size S. Known-good loose wire: Emerald Erin France 36; most other wires feel too narrow/U-shaped.
+**Research subject:** Jum, a Thai-Chinese woman seeking comfortable, attractive structure for bras, dresses and custom garments. Current working measurements are 78.0 cm snug underbust and 81.5 cm standing/apex bust. The best physical wire match found so far is Emerald Erin France size 36. These observations are a fitting baseline, not an ethnic body-shape assumption.
 
 ---
 
@@ -13,28 +13,25 @@
 | File | Contents |
 |------|----------|
 | `glossary.md` | JP/KO/ZH technical terms with English translations |
-| `sources.md` | All sources found, with URLs and quality ratings |
+| `sources.md` | Sources with URLs and quality ratings |
 | `creators.md` | Creators and communities worth following |
-| `findings/01-cup-construction.md` | Cup types, seam geometry, moulded vs seamed |
-| `findings/02-small-bust-fitting.md` | Small/shallow-bust specific fitting knowledge |
-| `findings/03-wire-geometry.md` | Wire shapes, dimensions, Asian vs Western supply |
-| `findings/04-body-casting.md` | Body molds, plaster casting, tape doubles, 3D scanning |
+| `findings/01-cup-construction.md` | Cup types, seam geometry, moulded versus seamed construction |
+| `findings/02-small-bust-fitting.md` | Low-volume and shallow-bust fitting knowledge |
+| `findings/03-wire-geometry.md` | Wire-first fitting, supplier systems and the France 36 baseline |
+| `findings/04-body-casting.md` | Body molds, plaster casting, tape doubles and 3D scanning |
 | `findings/05-draping.md` | Draping methods for bras and corsets |
-| `findings/06-patterns-books.md` | Patterns, textbooks, schools, pattern companies |
-| `findings/07-asian-vs-western.md` | Hypothesis: do Asian makers have different defaults? |
-| `findings/08-shopping-reverse-engineering.md` | Live Une Nana Cool shortlist, Japanese consumer-fit evidence, sizing corrections, and ordering routes |
-| `findings/09-japanese-size-conversion.md` | Wacoal/JP and Pepper/US size systems, Jum working range, and alpha-size warning |
+| `findings/06-patterns-books.md` | Patterns, textbooks, schools and pattern companies |
+| `findings/07-asian-vs-western.md` | Regional-market hypotheses to test rather than assume |
+| `findings/08-shopping-reverse-engineering.md` | Current fit architecture, purchase ladder, Wacoal/Liberty choices and home-build plan |
 
 ## Standing Research Instructions
 
-See `memory/bra-research-feed.md` in the main workspace for full channel instructions.
-
-**Quick summary:**
-- Search in native JA/KO/ZH terminology only
-- Quality bar is aggressive — real drafting, measurements, diagrams, construction sequences
-- Tag Jum (<@645323102380752916>) on worthy channel posts
-- This is cumulative; don't repost known sources
-- Working hypothesis (test, don't assume): Asian bra makers hold different defaults because their client distribution skews smaller
+- Search in native Japanese, Korean, Chinese, Thai and Vietnamese terminology where useful.
+- Prefer primary sources, actual measurements, diagrams, construction sequences and clear product specifications.
+- Separate confirmed measurements from inferences and retail marketing claims.
+- Treat cup volume, root footprint, wire geometry, band length and augmentation as separate variables.
+- Test the working hypothesis that some Asian markets encode more low-volume fit knowledge; do not assume one “Asian body” or one regional wire shape.
+- Preserve useful negative results so later researchers do not repeat them.
 
 ## Live Sites
 
