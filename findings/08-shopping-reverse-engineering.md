@@ -23,18 +23,19 @@ Use two design layers:
 
 ## Purchase ladder
 
-### First Japanese order: three different questions
+### First Japanese order: fit first, then research
 
-1. **Natural low-volume control — Nissen Petitshu soft-wire bra, AAA80.** This is the most size-relevant inexpensive control. It uses an L-shaped soft wire, crossover front, thin removable urethane pad, powernet cup, no side bone and a folded back edge. Product: https://www.nissen.co.jp/item/CFC0326A0002
+1. **Best confidence-first Nissen trial — Petitshu “close fit” wireless bra, AAA80.** In Nissen's three-design comparison, choose the **middle** option labelled `ピタッと密着` (“close fit”), `浮かない` (“does not gape”) and `パカパカ防止` (“prevents cup-edge gaping”). Its exact product is **CJY0222D0001**, not a color choice within the soft-wire listing. It uses a fuller-coverage wireless cup, a non-removable upper-cup pad to reduce edge float, a lower powernet lift panel, a wide underband and high sides. This is the first wearable trial because it directly addresses the visible failure mode while avoiding another wire-root gamble. Product: https://www.nissen.co.jp/item/CJY0222D0001
 2. **Best currently buyable Wacoal experiment — BMM022, AA-A80.** This is engineered to resist upper-cup gaping and make a natural line without thick augmentation. It is still a pooled cup whose nominal volume exceeds Jum's standing difference, so it is evidence—not a predicted fit. Product: https://store.wacoal.jp/disp/01_BMM022.html
-3. **Best Liberty preference sample — Une Nana Cool JB3570, size L.** L is the only grade containing A80. It is a flexible one-piece wireless moulded architecture, not a seamed/plate cup. Buy it because Jum likes the Liberty design and because its lift sheet, high side and twin-strap vectors are useful—not because the broad alpha grade promises precise cup fit. Product: https://store.wacoal.jp/disp/01_JB3570.html
 
-Current JB3570 mapping: S=A65/B65; M=A70/A75/B70/C65/C70/D65/E65; L=A80/B75/B80/C75/D70/D75/E70/F65/F70/G65; LL=C80/D80/E75/E80/F75/G70/G75. On the live page checked 2026-09-06, L was selectable in BE (Meadow Muse Display); other color stock was variable.
+The earlier Nissen recommendation, **CFC0326A0002**, is the left/“natural” concept in the comparison: a soft L-wire, crossover front and thin removable pad. It remains a useful second-round construction comparator, but not the first confidence-sensitive purchase because its wire geometry is unverified. The right/“soft rounded” design deliberately adds more volume and is not the first fit control.
+
+**Trust rule:** do not add a garment merely because the fabric or collaboration is attractive. A likely non-fit undermines confidence in the research. Decorative or broad alpha-sized collaborations stay off the wearable shopping list unless their exact size and architecture are independently justified.
 
 ### Do not buy yet
 
 - **Wacoal My Size Collection BPP330 AAA80:** technically interesting but ¥12,980, made after order and approximately one to one-and-a-half months to delivery. Jum measures below nominal AAA80. Defer until the inexpensive AAA80 and pooled AA-A80 controls have been examined.
-- **Liberty JB2323 B75:** cup and band are wrong for wearing. Buy only later as a discounted teardown specimen for its wide-wire claim, internal side support and thick B-cup padding.
+
 - Earlier B65 Une Nana Cool recommendations (JB2780, JB2400, JB3840, JB2310) are not wearable candidates.
 
 ### Other regional specimens
@@ -81,7 +82,7 @@ Proxy returns are not ordinary retail returns. ZenMarket can request one only if
 
 The tariff uncertainty is real and is separate from the proxy choice. The United States suspended duty-free de minimis treatment for shipments from **all countries** effective 2025-08-29, including packages valued at $800 or less. A February 2026 order continued that suspension. As of 2026-02-28, international postal packages also use an ad-valorem (percentage-of-value) method rather than the temporary flat per-item alternative.
 
-A proxy does not change origin. Customs follows the declared **country where the garment was manufactured**, not the country of the retailer or proxy warehouse. On the current product pages, Wacoal BMM022 is listed as made in China and Liberty JB3570 as made in Vietnam; the Nissen Petitshu is also listed as made in China. A consolidated parcel from Japan must retain those line-item origins.
+A proxy does not change origin. Customs follows the declared **country where the garment was manufactured**, not the country of the retailer or proxy warehouse. On the current product pages, Wacoal BMM022 and the Nissen Petitshu are listed as made in China. A consolidated parcel from Japan must retain those line-item origins.
 
 Many man-made-fiber brassieres have historically entered under HTSUS 6212.10.9020 with a 16.9% general duty; lace/embroidery construction can classify differently, and additional country-specific duties may apply. Treat 16.9% as a classification warning, not a complete landed-cost quotation. Country measures and carrier processing fees remain volatile.
 
@@ -110,9 +111,8 @@ The decisive limitation: WorldShopping explicitly does **not** accept returns or
 
 | Priority | Shop / product | Enter exactly | Purchase note |
 |---|---|---|---|
-| 1 | Nissen Petitshu | `CFC0326A0002`, `AAA80`, preferred color | If Nissen direct is rejected, use the Nissen Yahoo listing `ZZY4626A0031`: https://store.shopping.yahoo.co.jp/nissenzai/zzy4626a0031.html |
+| 1 | Nissen Petitshu close-fit wireless | `CJY0222D0001`, `AAA80`, preferred available color | Middle `ピタッと密着` design; do not substitute one of the other two silhouettes |
 | 2 | Wacoal BMM022 | `BMM022`, `AA-A80`, BL | Official page showed AA-A80 selectable when checked |
-| 3 | Une Nana Cool Liberty | `JB3570`, `L`, BE | BE/L was the live combination checked; confirm again before payment |
 | Hold | BPP330 | `AAA80` | Do not include in the first consolidated order |
 
 Do not remove tags, wash, alter or dissect until Jum has completed a documented try-on. With a proxy, assume every fit trial is effectively final sale.
@@ -139,9 +139,10 @@ Before washing or cutting, record relaxed/stretched band; actual wire trace and 
 - Wacoal size chart: https://store.wacoal.jp/size/chart/size3000.html
 - Wacoal BMM022: https://store.wacoal.jp/disp/01_BMM022.html
 - Wacoal BPP330: https://store.wacoal.jp/disp/01_BPP330.html
-- Une Nana Cool Liberty JB3570: https://store.wacoal.jp/disp/01_JB3570.html
+
 - Wacoal domestic-only ordering notice: https://store.wacoal.jp/guide/morder_guideline.html
-- Nissen Petitshu: https://www.nissen.co.jp/item/CFC0326A0002
+- Nissen Petitshu close-fit wireless: https://www.nissen.co.jp/item/CJY0222D0001
+- Nissen Petitshu soft-wire comparator: https://www.nissen.co.jp/item/CFC0326A0002
 - Nissen overseas-delivery restriction: https://support.nissen.co.jp/hc/ja/articles/4781068384030
 - SATAMI BR-05951: https://www.online-satami.com/BR-05951-BK-Black-Invisible-T-shirt-Bra-Cup-A-D
 - SATAMI delivery: https://www.online-satami.com/order
