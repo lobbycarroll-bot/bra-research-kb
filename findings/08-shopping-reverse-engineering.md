@@ -4,9 +4,9 @@
 
 ## Research target
 
-- **Fit reference supplied by Steve:** Pepper, size S, style BRA036, RN 174794
-- **Target body:** underbust 65, low cup volume, shallow/wide-set breast root, small Asian frame
-- **Goal:** buy Asian-market garments for fit and construction study. The ordering service is only a logistics choice.
+- **Fit reference supplied by Steve:** Pepper, size S, style BRA036, RN 174794; wearer is a US/Pepper 34 band and between AA and A cup
+- **Working Japanese size:** approximately 75A–75B from Pepper's current conversion chart, pending direct snug-underbust and full-bust measurements; low volume, shallow/wide-set root, small frame
+- **Goal:** explore comfortable, wearable, attractive Asian-market garments that flatter and accentuate a smaller bust—not merely locate one plate-cup construction. The ordering service is only a logistics choice.
 
 ## Critical sizing correction
 
@@ -20,13 +20,49 @@ Japanese cup letters are based on centimeter differences and are not directly eq
 
 Do not rely on Wacoal search results for a size. A search for “65A” returned styles whose actual product selector had no A65. Verify the selectable size on the product page.
 
+## Evaluation framework: appearance × comfort
+
+Small-bust wearers do not all want the same visual result. Record each candidate against these separate goals:
+
+| Desired result | What to evaluate | Failure modes |
+|---|---|---|
+| Natural / barely-there | No upper gap, light pressure, softly rounded line | Cup edge exposing the breast when bending; flattening |
+| Slim but polished | Smooth side line, lifted position, works under fitted/open-neck clothing | Excess foam, broad-looking chest |
+| Rounded / upper-full | Upper-pole fill, smooth T-shirt profile | Rigid cup standing away from the body |
+| Cleavage / centered | Low center, inward lift, stable neckline | Painful compression, tissue spilling, unstable gore |
+| Decorative / visible lingerie | Lace or print scale suits a small frame; straps and neckline are attractive when glimpsed | Decorative cover disguising an unsuitable structural cup |
+
+Wacoal's small-bust survey is useful for defining the brief: A/AA wearers praised a slim silhouette and freedom with fitted or open-neck clothing, while recurring complaints were cup gaping, exposure when bending, and wanting some cleavage without uncomfortable compression. Source: https://store.wacoal.jp/contents/chiebukuro/category/beauty/article71111.html
+
+## Newly identified Wacoal candidates
+
+### BMM022 — A-cup-specific natural type (highest-confidence fit experiment)
+
+- Live size: **AA-A75**; ¥4,290 when checked.
+- Designed specifically so the upper cup falls toward the body and the lining does not leave a gap; thin full-area pad gives gentle shape rather than heavy projection.
+- Current review from a thin, low-volume wearer says it fits naturally without a thick pad and its wire curve does not hurt the ribs.
+- Black version is described as adult/cute and has coordinated standard, string and T-back bottoms, so it covers the attractive-garment goal as well as fit research.
+- https://store.wacoal.jp/disp/01_BMM022.html
+
+### My Size Collection BPP330 — premium exact-volume reference
+
+- Live made-to-order range includes **AAA75, AA75, A75 and B75**; ¥12,980 when checked.
+- 4/5-cup, volume-specific construction, moderate inward shaping and natural roundness; decorative rose appliqué.
+- Made in Japan after ordering; quoted delivery approximately 1–1.5 months. This is expensive, but unusually valuable because adjacent tiny cup volumes can be compared without changing the band.
+- https://store.wacoal.jp/disp/01_BPP330.html
+
+### AMPHI Stylist 4U BYJ377 — current A75 review lead
+
+- A current A75 reviewer with a small bust reports that the normally gaping upper chest was fully covered and comfortable even with wires.
+- The line advertises four size-dependent designs. Construction still needs inspection before treating it as a teardown buy.
+- https://store.wacoal.jp/disp/02_BYJ377.html
 ## Verified purchase shortlist
 
 | Priority | Product | Live size/stock relevant to Jum | Price checked | Construction value | Direct link |
 |---|---|---|---:|---|---|
-| 1 | **364 Bra Lace — Made with Liberty Fabric, renewed** (JB3570) | **S in stock; S = A65/B65** | ¥4,620 | Best first fit reference. Wireless, extremely light, breathable Elc® molded 3D cup, high side/back, triangular power-net plus twin-strap lift. Do not equate this Wacoal S with Pepper S; the brands use different mappings. Liberty print Jum likes. | https://store.wacoal.jp/disp/01_JB3570.html |
-| 2 | **Bitter Dot Cotton, renewed** (JB2780) | **B65 in stock**; no A65/AA65 | ¥4,620 | Strongest wired **fit** candidate: deliberately shallow cup, stretch-lace upper edge that resists gaping, low center/gore, and cotton-blend back. A small-bust specialist warns that the 65 band feels relatively tight/short. | https://store.wacoal.jp/disp/01_JB2780.html |
-| 3 | **ふゆうする / Fuyū-suru** (JB2400) | **B65 in stock**; no A65/AA65 | ¥3,960 | Distinctive wired 3/4-cup construction experiment. The stretchy `ほわピタカップ` is marketed for upper-edge gaping and added volume, but current reviews sampled were mostly larger cups. It is not verified as an A/AA or plate-cup style. | https://store.wacoal.jp/disp/01_JB2400.html |
+| Fit reference | **364 Bra Lace — Made with Liberty Fabric, renewed** (JB3570) | **M includes A75; L includes B75**; stock varies by color | ¥4,620 | Natural, comfortable and decorative Liberty option. The load-bearing cup is a one-piece Elc® moulded 3D cup; visible diagonal lines are outer/cover or lift components. Consumer-fit reference, **not** a vertical-seamed or verified plate cup. | https://store.wacoal.jp/disp/01_JB3570.html |
+| Wired fit candidate | **Bitter Dot Cotton, renewed** (JB2780) | **B75 is in the size run**; no A75 | ¥4,620 | Strongest wired **fit** candidate: deliberately shallow cup, stretch-lace upper edge that resists gaping, low center/gore, and cotton-blend back. A small-bust specialist warns that the 65 band feels relatively tight/short. | https://store.wacoal.jp/disp/01_JB2780.html |
+| Moulded wired comparator | **ふゆうする / Fuyū-suru** (JB2400) | **B75 is in the size run**; no A75 | ¥3,960 | Distinctive wired 3/4-cup construction experiment. The stretchy `ほわピタカップ` is marketed for upper-edge gaping and added volume, but current reviews sampled were mostly larger cups. It is not verified as an A/AA or plate-cup style. | https://store.wacoal.jp/disp/01_JB2400.html |
 | 4 | **BRAGENIC Happy Bloom** (JB3840) | **B65 in stock in black**; beige B65 awaiting restock; no A65 | ¥3,630 | Wireless molded comparison. Double-Up molded cup adds volume; wide internal sheet resists lateral spread; stretch-lace upper edge. Useful to reverse-engineer *volume-building*, but not a neutral shallow-cup baseline. One color is enough. | https://store.wacoal.jp/disp/01_JB3840.html |
 | 5 | **さあ、わたし Simple** (JB2310) | **B65 in stock**; no A65/AA65 | ¥3,960 | Wired 3/4 cup with wider wire, high sides/back smoothing, side support and a thick “puffy” pad specifically in B cups. Useful engineered control, but less neutral than JB2780. | https://store.wacoal.jp/disp/01_JB2310.html |
 
@@ -44,11 +80,13 @@ Do not rely on Wacoal search results for a size. A search for “65A” returned
 
 ## Recommended first order
 
-1. **JB3570 in S** — best-supported consumer-fit trial and the best match to Jum's Liberty preference. Current S explicitly covers A65/B65.
-2. **JB2780 in B65** — best wired fit comparison if B65 is plausible; shallow cup and stretch-lace edge, but expect a snugger 65 band.
-3. **JB2400 in B65** — useful construction experiment if the budget allows; buy for its conforming molded cup, not because it has been proven as the best tiny-bust fit.
+1. **Do not order from the earlier 65-band list.** A Pepper/US 34AA–34A maps approximately to Japanese 75A–75B, subject to direct measurements.
+2. **Highest-confidence exact-size fit experiment: BMM022 in AA-A75.** It is designed specifically for AA/A volume, minimizes upper-cup gaping without heavy push-up, and keeps a slim, natural line.
+3. **Aesthetic/comfort experiment: JB3570.** Consider M only if 75A is confirmed, or L if 75B is confirmed and stocked. Buy it for the Liberty appearance and 364 comfort/fit behavior—not as a plate-cup specimen.
+4. **Wired comparisons: JB2780 or JB2400 in B75**, only if 75B is confirmed. Neither is verified as a vertical plate cup.
+5. **Premium exact-volume comparator: My Size Collection BPP330** in the measured AAA/AA/A/B 75 size. Its cup construction changes by volume and it offers refined lace, but it costs ¥12,980 and is made to order.
 
-Keep **JB3840 BRAGENIC** as a lower-priority volume-building control. A detailed 364 review reports BRAGENIC floating at the upper edge on an extremely thin, small bust while 364 did not.
+Keep **BRAGENIC** as a deliberate upper-fullness/volume-building branch, not the default. Continue searching for a measured or explicitly shallow two-part vertical-seam specimen; that construction target remains unfilled.
 
 Do **not** buy two colors of one construction for research. One garment from each architecture produces more information than duplicate colorways.
 
