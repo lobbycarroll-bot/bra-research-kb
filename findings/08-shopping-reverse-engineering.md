@@ -179,7 +179,7 @@ Mainland Chinese social evidence remains a research gap because product posts an
 | Order | Exact specimens | Size | Research question |
 |---|---|---:|---|
 | Japan via ZenMarket | Nissen CJY0222D0001 ×2; Cecile BC-180; Wacoal BPD330; Nissen SHeerly AYL0126B0002 | AAA80 + AA80; AAA80; AAA80; M | Exact cup threshold, modest purpose-graded foam, current wired exact grade, and a true padless/powernet construction |
-| Korea via Delivered Korea | ACUP Soul Mesh; Comfortlab Dual Cool Nipple | 80AA Champagne Beige; 90 | Wired unpadded exact grading versus wireless, thin-edged molded nipple coverage |
+| Korea via Delivered Korea | ACUP Soul Mesh; Comfortlab Dual Cool Nipple | 80AA Champagne Beige; 90 Cool Beige | Wired unpadded exact grading versus wireless, thin-edged molded nipple coverage |
 
 This is deliberately not optimized for the cheapest item. It is optimized for **two consolidated Asian ordering sessions** that produce distinct, comparable constructions. Do not open the Korean session unless both bras are available; one bra alone does not justify the proxy overhead.
 
@@ -223,6 +223,8 @@ Use one ZenMarket account for the five Japanese bras plus planned sheet music. Z
 ### Korea — Delivered Korea “We Buy”
 
 Delivered Korea is a separate proxy/forwarder, not either retailer. It purchases Soul Mesh from ACUP and Dual Cool from Comfortlab, receives two domestic parcels, consolidates them, and sends one international parcel. Submit both URLs together and do not proceed if the batch shrinks to one bra.
+
+**Live order status (September 7, 2026):** Jum approved both Korean specimens and the two manual “We Buy” quotation requests were submitted successfully: ACUP Soul Mesh (80AA, Champagne Beige, quantity 1) and Comfortlab Dual Cool Nipple (size 90, Cool Beige, quantity 1). Both are still in **Submitted** status at $0: no quotation has arrived, nothing has been paid, and Delivered Korea has not yet placed either retailer order. Each request explicitly forbids size/color substitutions and add-on briefs. The next decision point is the combined quotation; use Standard handling so size, color, and quantity are inspected at receipt, then use the included unbox consolidation after both packages arrive. Account-linked request numbers remain private and are intentionally omitted from this public KB.
 
 - Process: https://docs.channel.io/dkhelpcenter/en/articles/How-to-Order-We-Buy--Ship-a199975e
 - Pricing: https://docs.channel.io/dkhelpcenter/en/articles/Pricing-Overview-720d6391
