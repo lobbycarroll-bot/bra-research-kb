@@ -143,8 +143,10 @@ Japan offers the best exact AAA80/AA80 size bracket and should remain a major or
   - Choose the center “ピタッと密着” type. Upper-edge stabilizer targets floating; lower powernet supplies lift; wireless.
 - Cecile Petit Bust Lab BC-180, **AAA80**: https://www.cecile.co.jp/detail/BC-180/
   - Dedicated AAA–A grading, wireless full cup, approximately 15 mm natural-volume foam; high review volume.
-- Wacoal My Size BPP330, **AAA80**: https://store.wacoal.jp/disp/01_BPP330.html
-  - Individually graded wired 4/5 cup, pad pockets, made to order, stated 1–1.5 month lead.
+- Wacoal My Size BPD330, **AAA80**: https://store.wacoal.jp/disp/01_BPD330.html
+  - Current made-to-order wired 4/5 cup, natural-rounding/anti-float construction, stated 1–1.5 month lead, and ¥14,080 live price on 2026-09-06.
+  - Wacoal says the AAA–AA version uses a cup with added thickness for close fit. That may be useful shallow-volume engineering, but the thickness map is not published. Jum must approve the product photographs before the proxy buys it; do not assume “AAA” means thin.
+  - **BPP330 is retired.** Its old URL now returns Wacoal's “product not found / outside sales period” page. Search-engine excerpts showing it as available are stale.
 - Nissen SHeerly sheer non-padded bra AYL0126B0002, **M**: https://www.nissen.co.jp/item/AYL0126B0002
   - True non-padded build: no pad, no pad pocket, no wire, no side bones; full cup layered with supple powernet, deep V, delicate straps, and a sheer black-lace fashion treatment.
   - Live verified 2026-09-06: M was low stock at ¥1,790/¥1,969 tax; rating 4.6/5 from 10 reviews; Buyee widget offered international shipping.
@@ -176,7 +178,7 @@ Mainland Chinese social evidence remains a research gap because product posts an
 
 | Order | Exact specimens | Size | Research question |
 |---|---|---:|---|
-| Japan via ZenMarket | Nissen CJY0222D0001 ×2; Cecile BC-180; Wacoal BPP330; Nissen SHeerly AYL0126B0002 | AAA80 + AA80; AAA80; AAA80; M | Exact cup threshold, modest purpose-graded foam, wired exact grade, and a true padless/powernet construction |
+| Japan via ZenMarket | Nissen CJY0222D0001 ×2; Cecile BC-180; Wacoal BPD330; Nissen SHeerly AYL0126B0002 | AAA80 + AA80; AAA80; AAA80; M | Exact cup threshold, modest purpose-graded foam, current wired exact grade, and a true padless/powernet construction |
 | Korea via Delivered Korea | ACUP Soul Mesh; Comfortlab Dual Cool Nipple | 80AA Champagne Beige; 90 | Wired unpadded exact grading versus wireless, thin-edged molded nipple coverage |
 
 This is deliberately not optimized for the cheapest item. It is optimized for **two consolidated Asian ordering sessions** that produce distinct, comparable constructions. Do not open the Korean session unless both bras are available; one bra alone does not justify the proxy overhead.
@@ -213,7 +215,7 @@ Her remembered complaint is intentionally recorded only as **“they didn't feel
 
 ### Japan — ZenMarket
 
-Use one ZenMarket account for the five Japanese models plus planned sheet music. ZenMarket's official fee page says the service includes buying support and initial consolidation; current free storage is 60 days, with paid overstay to 90 days. **Order BPP330 first** because its 1–1.5 month production lead can consume most of the free window. Add other items late enough that they do not age out before BPP330 arrives. Do not create the international parcel until every item is in the warehouse.
+Use one ZenMarket account for the five Japanese bras plus planned sheet music. ZenMarket's official fee page says the service includes buying support and initial consolidation; current free storage is 60 days, with paid overstay to 90 days. **Have the proxy confirm it can place the BPD330 reservation, then order that bra first** because its 1–1.5 month production lead can consume most of the free window. Add other items late enough that they do not age out before BPD330 arrives. Do not create the international parcel until every item is in the warehouse.
 
 - https://zenmarket.jp/en/fees.aspx
 - https://zenmarket.jp/en/shipping.aspx
@@ -259,6 +261,7 @@ For retained construction specimens, record relaxed/stretched band, wire trace a
 - **SATAMI BR-05951:** definite no; described padding is too thick and its wire is unverified. Do not retain it merely as a wire specimen.
 - **Cecile BC-475, aimerfeel Super Push-Up/超盛, Dorosiwa 3 cm filler styles, and Comfortlab Perfect Fit Side Volume:** removed by applying Jum's padding rule to confirmed product descriptions, not because she tried them.
 - **SATAMI BR-02268:** no final decision; do not open a Hong Kong ordering session for it yet.
+- **Wacoal BPP330:** retired/dead product page; replaced by current BPD330, subject to Jum's visual check of its thickened AAA/AA cup.
 - **Dorosiwa Sage:** native product copy warns against it for AA/little upper fullness.
 - **Another stock Mésange:** known failure already supplied the lesson.
 - **Generic B/C fashion bras:** no purchase unless the construction itself justifies teardown.
