@@ -1,265 +1,224 @@
-# Bra Fit and Reverse-Engineering Shopping Guide
+# Asian-led shopping and reverse-engineering guide
 
-**Status checked:** 2026-09-06
+Updated: 2026-09-06
 
-## Research target
+## Purpose
 
-- Jum's current measurements: **78.0 cm snug underbust**, **81.5 cm standing/apex bust**, a **3.5 cm difference**.
-- Observed wearable reference: **Pepper size S**, style **BRA036**, RN **174794**.
-- Best physical wire found so far: **Emerald Erin France wire 36**. This is a wire number, not a band size.
-- The stock Mésange cup was far too large, the apex was too high, and the cradle/channel did not fit the selected wire correctly. Jum's redrafted cup/cradle is the home-construction baseline.
-- Objective: find attractive, comfortable garments that may be wearable while creating a deliberately varied library of cup, pad, wire and support constructions for future custom garments.
+This is the persistent research record behind the public shopping page. The immediate goal is to buy attractive bras that Jum can fit-test and, when useful, reverse engineer. The longer goal is to learn controllable ways to build support and optional visual volume into garments for a small, shallow bust without simply scaling down a larger projected cup.
 
-## Working market hypothesis
+The discovery hypothesis is now explicit: native Asian consumer, fitter, maker, and brand sources are the primary search space. English-language bras remain useful controls when they offer an exact small cup, a distinctive construction, or easy returns. “Asian” is not itself a fit specification; measurements and geometry decide the size. The regional market hypothesis is about which bodies product teams routinely design for and which fitting problems local consumers discuss.
 
-The practical problem is an overlap failure rather than a simple country preference:
+## Jum baseline and corrections
 
-1. Fashion-led U.S. lingerie often has the desired contemporary styling but stops before Jum's cup volume, pools small cup sizes, or scales down cups that were developed on larger bodies.
-2. East and Southeast Asian catalogs more often discuss small-bust shaping, upper-cup contact and inward/vertical volume control, but language, unfamiliar sizing and often conservative/high-coverage styling make the relevant garments difficult to identify.
-3. The most useful basket therefore combines attractive Western micro-cup specialists with a limited number of Asian products chosen for distinct engineering rather than nationality.
+- Snug underbust: **78.0 cm**
+- Standing/apex bust: **81.5 cm**
+- Difference: **3.5 cm**
+- Known wearable: **Pepper size S, BRA036, RN 174794**
+- Best physical wire found: **Emerald Erin France wire 36**. This is a wire number, not a band size.
+- Mésange stock cup failure: far too much volume, apex too high, and cup/cradle/channel geometry did not match the wire. Jum redrafted the cup. Do not buy another stock Mésange as a fit solution.
 
-Ethnicity is not a fit measurement. Jum's own measurements, root geometry, wire trials and garment behavior remain the deciding evidence.
+### Size conversion conclusion
 
-## Size interpretation
+Jum's 78 cm underbust belongs in **Japanese/Asian band 80** on direct-measurement charts. It does not justify the earlier 65-band recommendation. Japanese A commonly encodes about a 10 cm bust-underbust difference; Sabina's Thai chart defines A as 9–11 cm. Jum's 3.5 cm difference is therefore below those A shells even when the band is correct. The best exact Asian experiments are **AAA80 and AA80**. A80 or Thai A36/80 is justified only when padding or unusual cup geometry consumes volume, or when the specimen teaches a distinct construction.
 
-- On Japanese direct-measurement tables, 78 cm is in the **80 band** interval (77.5–82.5 cm). It is not a Japanese 65 band.
-- Japanese A generally means about a **10 cm top-minus-underbust difference**; Jum's 3.5 cm difference is below it. Nissen's AAA80 options are therefore more plausible Japanese starting points than A80, although construction can consume nominal shell volume.
-- U.S. and European conversions are not uniform. Pepper's published international table maps U.S. 34AA to JP 75A, while Japanese domestic measurement tables treat 80 as the correct underbust label for 78 cm. These are different sizing methods, not a contradiction that can be resolved by converting the letter alone.
-- In return-friendly U.S. brands, test **34AAA/34AA/34A** according to each brand chart. The known Pepper S fit is stronger evidence than a generic calculator.
-- A same-model adjacent-size bracket is useful when returns are easy; it is usually wasteful for proxy purchases.
+Never convert a cup letter alone. Record the brand, band, cup, shell architecture, padding thickness, and stretch.
 
-## Time-first purchase plan
+## Evidence scale
 
-The core slate is six checkout sessions. It deliberately uses temporary capital to avoid a second research cycle.
+- **E1 — close native consumer analogue:** wearer describes a similarly tiny/shallow bust and dynamic fit outcome.
+- **E2 — native brand/fitter construction claim:** official description names the target problem and the mechanism.
+- **E3 — exact current product evidence:** size and construction are verified on a live product page.
+- **E4 — research inference:** plausible from geometry but not yet validated on Jum.
 
-| Session | Merchant | Quantity | Purpose |
-|---|---:|---:|---|
-| 1 | The Little Bra Company | 4 | Petite/wide-set grading; cut-and-sew, molded and strapless architectures |
-| 2 | Lulalu | 5 | Exact 34AAA/AA calibration and both wired/wireless padding systems |
-| 3 | Aerie | 3 | Trend-led U.S. mainstream benchmark in 34AA |
-| 4 | Shopbop | 4 | Timpa + Natori in one U.S. order with easy returns |
-| 5 | Pepper | 2 | Known-brand anchor in a new balconette silhouette |
-| 6 | ZenMarket | 7 | One Japan proxy parcel; combine with planned sheet music and research materials |
+## Most important native-language fit findings
 
-### Session 1: The Little Bra Company
+### Taiwan / Chinese-language consumers
 
-#### Naomi — 34AA and 34A
+The strongest close analogue found is a Dcard writer with a **5 cm bust-underbust difference**, also below A. Thick, rigid “small-bust” molded bras could look fitted immediately after scoop-and-swoop but shifted and visibly gaped after movement. A soft Viage bra stayed visually flush and comfortable. This is E1 evidence that a static fitting-room photo is insufficient; arm and torso movement must be part of every test.
 
-<https://www.thelittlebracompany.com/products/naomi>
+- Close analogue: https://www.dcard.tw/f/girl/p/240525272
+- Slender/no-upper-fullness wearer reports store-fit bras gaping after arms move; an unattractive flat/low-projection design stayed put: https://www.dcard.tw/f/girl/p/233134182
+- Consumer rejects very thick pads and wants moderate 1.5–2 cm volume: https://www.dcard.tw/f/girl/p/233860128
+- Peach John thick padding prevented gaping but felt artificial; softer wires later gaped at home: https://www.dcard.tw/f/girl/p/236855817
+- “Hug cup” 80A retained a smooth visual transition during bending and arm movement even though pressing the cup revealed some internal space: https://www.dcard.tw/f/girl/p/256184646
+- A very flat wearer asks manufacturers not to mold curvature into thin pads; even S wrinkled because the preformed radius was too projected: https://www.dcard.tw/f/girl/p/261350087
 
-- Highest-priority overall research buy.
-- Modern geometric lace, underwire, cut-and-sew demi cups, removable push-up pads and convertible straps.
-- TLBC explicitly marks it as especially good for wide-set breasts.
-- Hold color and band constant to isolate AA versus A. The seams are traceable and the pad can be tested independently.
+**Construction conclusion:** edge contact and dynamic stability are separate from fully occupying every cubic centimeter. Favor flexible upper edges, thin-edge pads, adjustable band/straps, and shallow cup curvature. Treat a rigid empty dome as a failure even if padding creates cleavage for one pose.
 
-#### Lenna — 34AA
+### Hong Kong fitter/brand geometry
 
-<https://www.thelittlebracompany.com/products/lenna>
+SATAMI's online fitting system describes a “Petite Athlete” shape as lower volume on a wider base and recommends a smaller cup paired with a wire of larger curvature. It also notes that wide-set breasts need a stable center and may not produce cleavage simply from push-up pressure.
 
-- Seamless molded demi with contoured push-up padding.
-- Also marked for wide-set breasts.
-- Compare its imposed molded silhouette with Naomi's seamed construction.
+- Fitting taxonomy: https://www.online-satami.com/online-bra-fitting-questions
+- BR-05951: https://www.online-satami.com/BR-05951-BK-Black-Invisible-T-shirt-Bra-Cup-A-D
+- BR-02268: https://www.online-satami.com/BR-02268-Y3-Grey-Lace-Wireless-Triangle-Bra-Cup-A-C
 
-#### Sascha Smooth — 34AA
+This is E2/E3 evidence for studying wider A-cup wires, low gore, graduated padding, pad pockets, underarm crescents, and double-folded cup edges.
 
-<https://www.thelittlebracompany.com/products/sascha-bra-strapless>
+### Korea
 
-- Strapless underwire micro-cup for dress and bodice engineering.
-- Keep only if the cradle anchors without producing an empty cup shelf.
+Dorosiwa's native product copy repeatedly names **AA, upper-flat/pigeon-chest, and wide-set** wearers. The Claire and Creamy Filler use a 3 cm high-density pad and half-cup mold; Soft Volume uses a softer, more breast-like fill. A Korean fashion creator who describes herself as AAA singled out Claire 75A as a successful push-up, useful E1 creator evidence even though Jum needs band 80.
 
-TLBC currently offers two free U.S. exchanges on eligible bras and accepts returns within 30 days with an $8 prepaid-label fee. Seasonal/final-sale eligibility must be checked before purchase.
+- Creamy Filler 80A: https://m.dorosiwa.com/product/detail.html?cate_no=260&display_group=1&product_no=3818
+- Claire Filler 80A: https://dorosiwa.com/product/detail.html?cate_no=250&display_group=1&product_no=2893
+- Soft Volume Filler 80A: https://www.dorosiwa.com/product/detail.html?product_no=4615
+- AAA creator comparison: https://www.youtube.com/watch?v=FwvHR0hh8zw
+- Negative control: Sage is explicitly not recommended for AA or little upper fullness because it can gap: https://dorosiwa.com/product/detail.html?cate_no=250&display_group=1&product_no=2218
 
-### Session 2: Lulalu
+Comfortlab is especially relevant because its Korean industry profile says its proprietary bralettes were developed from more than 250,000 fit records, heavily concentrated in A–C cups and 75–80 underbands. Its own FAQ explains small-bust gaping as a pad-area, edge-thickness, band-adjustment, and strap-adjustment problem rather than simply “not enough padding.”
 
-#### Callie — 34AAA and 34AA
+- Industry profile: https://www.fi.co.kr/main/view.asp?idx=67895
+- Perfect Fit Side Volume bralette: https://comfortlab.co.kr/m/product.html?branduid=3356574
+  - Size **90P** maps to 70C / 75B / **80A**.
+  - Wireless, two-part mold, 28 mm triple-structure sponge, side-volume gathering, four-step band.
+- Dual Cool Nipple bralette: https://comfortlab.co.kr/m/product.html?branduid=3357096
+  - Size **90** maps to 75B / 75C / **80A**.
+  - 32 g wireless build, 10 mm center-thicker teardrop ventilated pad with thin edges, independently adjustable band and straps, front hook.
 
-<https://www.lulalu.com/products/callie>
+The pooled sizes make both lower-confidence fit bets, but they are high-value comparative constructions.
 
-- Attractive two-tone lace, wireless band and very light fixed foam.
-- Best simple AAA/AA volume calibration.
+### Thailand
 
-#### Zoe — 34AAA and 34AA
+Native Thai consumer discussion compares Wacoal Boost Up V Gel with Sabina Modern V and maps the mechanism: a larger lower pad lifts while a smaller side pad moves tissue inward; Wacoal adds heavier gel while Sabina uses foam. Sabina's own guidance identifies cup gaps and clothing falling into the empty cup as small-bust problems and recommends side/lower padding with close cup-edge contact.
 
-<https://www.lulalu.com/products/zoe>
+- Native comparison: https://pantip.com/topic/32554033
+- Sabina push-up guidance: https://www.sabina.co.th/th/blog/tips-choosing-push-up-bra
+- Level 4 category (100% pad; marketed as adding one cup): https://www.sabina.co.th/th/category/bras-level-4
+- Soft Doomm category (Level 3; 2.3 cm pad; marketed as adding half a cup): https://www.sabina.co.th/en/category/soft-doomm
+- Thai fit review: https://www.lemon8-app.com/@kobe.review/7484994643302842898?region=th
 
-- Underwire push-up with small medium-light fixed bump pads, convertible straps and no side boning.
-- Tests how small the shell can be when localized padding supplies the requested silhouette.
+**Correction:** current Modern V listings offer A32/70 and A34/75 but not A36/80. Do not substitute B36. The current exact-size Level 4 specimen is:
 
-#### Delilah — 34AA
+- Doomm Doomm SBA9100CM, **A36/80**: https://www.central.co.th/th/bra-fong-d-invisible-wire-doomm-doomm-collection-style-no-sba9100cm-chocolate-grmkppr000107943
+  - 3.5 cm integrated pad, wireless/invisible-wire architecture, cooling/perforated foam, removable/adjustable straps.
 
-<https://www.lulalu.com/products/delilah>
+Add one live Soft Doomm Level 3 in A36/80 from Sabina. Exact colors/models turn over; do not change cup size to rescue a color.
 
-- Organic-cotton wireless T-shirt bra, removable lightly padded cups and flexible side bones.
-- Comfort/wearability control and a clean removable-volume example.
+### Japan
 
-Lulalu product pages advertise free returns and exchanges for at-home trials. Avoid final-sale colors.
+Japan offers the best exact AAA80/AA80 size bracket and should remain a major order, but not the entire research program.
 
-### Session 3: Aerie
+- Nissen Petitshu close-contact CJY0222D0001, **AAA80 + AA80**: https://www.nissen.co.jp/item/CJY0222D0001
+  - Choose the center “ピタッと密着” type. Upper-edge stabilizer targets floating; lower powernet supplies lift; wireless.
+- Cecile Petit Bust Lab BC-180, **AAA80**: https://www.cecile.co.jp/detail/BC-180/
+  - Dedicated AAA–A grading, wireless full cup, approximately 15 mm natural-volume foam; high review volume.
+- Cecile BC-475, **AAA80**: https://www.cecile.co.jp/detail/BC-475/
+  - Dedicated AAA–A grading, extreme integrated volume marketed up to two cups; high-value augmentation teardown.
+- Wacoal My Size BPP330, **AAA80**: https://store.wacoal.jp/disp/01_BPP330.html
+  - Individually graded wired 4/5 cup, pad pockets, made to order, stated 1–1.5 month lead.
+- aimerfeel 152413, **A80**: https://shop.aimerfeel.jp/shop/g/g1524133113/
+  - Youthful seamless/high-side aggressive augmentation; nominal A shell is a fit risk but the padding map is useful.
 
-#### Sunnie Bloom Lace Demi Push Up — 34AA and 34A
+Japanese consumer reviews add two useful cautions. A Nissen small-bust line can create roughly two cups of visual volume even in an AAA label, so “AAA” does not mean minimally padded. A separate wearer found AA80 gaped while AAA80 fit the cup but the band felt tight, confirming that adjacent cup letters and real band stretch matter.
 
-<https://www.ae.com/us/en/p/aerie/bras/push-up-bras/sunnie-bloom-lace-demi-push-up-bra/6733_5194_073>
+- Nissen review evidence: https://review.rakuten.co.jp/item/1/262907_11019626/1.1/
+- AA80/AAA80 comparison: https://item.rakuten.co.jp/shirohato/20f703pbs/
 
-- Medium-lift demi with stretch fabric/lace and convertible racerback straps.
-- Tests whether a trend-led U.S. mall brand can supply the desired look in an actual micro-cup.
+#### Une Nana Cool / Wacoal correction retained from earlier work
 
-#### Sunnie Bloom Lace Wireless Push Up — 34AA
+Native Japanese consumers reported that the 364 line's flexible edge could avoid upper-cup gaping on thin/small busts, while BRAGENIC sometimes floated. That is useful edge-construction evidence, but current 364 small sizes map around A65/B65. After Jum's 78 cm measurement, **65 is the wrong band**. Bitter Dot and Fuyū-suru likewise begin in wrong or too-large grades. The Liberty collaboration is removed from the shopping list: attractive print is not enough to justify a predictable non-fit.
 
-<https://www.ae.com/us/en/p/aerie/bras/push-up-bras/sunnie-bloom-lace-wireless-push-up-bra/0738_5046_331>
+### Vietnam and mainland China
 
-- Wireless demi comparison in the same design language.
-- Aerie's current 34AA category lists both wired and wireless Sunnie variants and advertises 30-day/store returns. Avoid final sale.
+Vietnam has attractive live A80 products, but current native consumer-fit evidence is weaker than the regions above. Keep these as second-wave references, not extra checkout sessions:
 
-### Session 4: Shopbop
+- ZAGU 8817 A80, diagonal two-piece 3/4 cup: https://zagu.vn/products/ao-nguc-cho-nang-nguc-nho-zagu-8817
+- Wacoal Vietnam ISB3232 A80, wireless molded natural-volume control: https://wacoal.com.vn/products/isb3232
 
-#### Timpa Alice — 34A and 36A
+Mainland Chinese social evidence remains a research gap because product posts and comments are difficult to retrieve reliably outside closed platforms. Do not fill that gap with guesses or assume Taiwan/Hong Kong evidence is identical.
 
-Official product: <https://www.timpalingerie.com/products/alice-demi-bra>
+## Recommended first-wave purchase slate
 
-- Underwired, unpadded single-panel stretch-lace demi/plunge.
-- Attractive natural-shape control and easily traceable cup.
-- Timpa says the band runs small and recommends sizing up. The bracket tests 34A's smaller cup against 36A's band comfort.
+### Asian core: 15 bras, four regional orders
 
-#### Natori Feathers Plunge Contour — 32A and 34A
+| Order | Exact specimens | Size | Research question |
+|---|---|---:|---|
+| Japan via ZenMarket | Nissen CJY0222D0001 ×2; Cecile BC-180; Cecile BC-475; Wacoal BPP330; aimerfeel 152413 | AAA80 + AA80; AAA80; AAA80; AAA80; A80 | Exact cup threshold, natural vs extreme fill, wired individual grade, youthful high-side augmentation |
+| Korea via one buying proxy | Dorosiwa Creamy; Claire; Soft Volume; Comfortlab Perfect Fit Side Volume; Dual Cool Nipple | 80A; 80A; 80A; 90P; 90 | Three Korean fill philosophies plus thick side-volume vs thin-edge natural control |
+| Thailand direct DHL | Sabina Doomm Doomm SBA9100CM; one live Soft Doomm Level 3 | A36/80; A36/80 | 3.5 cm maximum fill vs 2.3 cm everyday fill |
+| Hong Kong proxy | SATAMI BR-05951; BR-02268 | 36A; 36A | Wide-wire wired/pad-pocket geometry vs soft-padded anti-gap triangle |
 
-Shopbop: <https://www.shopbop.com/feathers-plunge-contour-bra-natori/vp/v%3D1/1544929272.htm>
+This is deliberately not optimized for the cheapest item. It is optimized for **four Asian ordering sessions** that produce distinct, comparable constructions.
 
-- Deep plunge, lightweight molded contour pad, mesh outer cover and lace trim.
-- Shopbop currently labels it as running small.
-- 32A offers less cup volume but may require an extender; 34A preserves the familiar band label. Both have lower fit confidence than a true 34AA.
+### Western controls: 6 bras, three easy orders
 
-Shopbop currently carries both brands, offers free U.S. shipping, and offers free returns if the carrier scans the return within 15 days. Days 16–30 incur a label fee.
+| Merchant | Exact specimens | Size | Why retained |
+|---|---|---:|---|
+| The Little Bra Company | Naomi ×2 | 34AA + 34A | Attractive cut-and-sew lace demi, removable pads, brand guidance for wide-set breasts; best traceable Western specimen |
+| Timpa / Shopbop | Alice ×2 | 34A + 36A | Attractive, unpadded stretch-lace shallow control; Timpa says bands run small |
+| Pepper | Cameo ×2 | 34AA + 34A | Known-brand grading anchor from Jum's successful BRA036 size S |
 
-### Session 5: Pepper
+- TLBC Naomi: https://www.thelittlebracompany.com/products/naomi
+- Timpa Alice: https://www.timpalingerie.com/products/alice-demi-bra
+- Pepper Cameo: https://www.wearpepper.com/products/cameo-balconette-lift-up-bra-black
 
-#### Cameo Balconette Lift Up — 34AA and 34A
+These are controls, not the discovery engine. Aerie and Natori were removed from the core because they added checkout work without answering a sufficiently distinct question.
 
-<https://www.wearpepper.com/products/cameo-balconette-lift-up-bra-black>
+## Lulalu negative evidence: do not reorder
 
-- Low, wide neckline; hidden underwire; gradual lift padding.
-- Lowest-risk way to test a more glamorous silhouette because Pepper S is already an observed wearable reference.
-- Current customer-fit summary says the cups can run slightly small, supporting the AA/A bracket.
-- Pepper advertises free returns and exchanges.
+Jum tried and returned both of these in **34AA** a few months before this research update:
 
-### Session 6: one Japanese proxy basket
+- **Luna Microfiber T-Shirt Bra with Removable Pad**, beige, 34AA.
+- **Cora Convertible Strapless Bra**, beige, 34AA.
 
-#### Nissen Petitshu close-contact type — AAA80 and AA80
+Her remembered complaint is intentionally recorded only as **“they didn't feel good.”** There is not enough evidence to attribute the problem to band, wire, projection, cup edge, or straps. Two architectures from the same brand both failed the comfort/wearability gate, so Lulalu is excluded from the current buy list. Reopening the brand would require a clearly different construction and a specific reason; it should not begin with another generic 34AA molded bra.
 
-<https://www.nissen.co.jp/item/CJY0222D0001>
+## Ordering logistics: time-first, not item-price-first
 
-- Choose the **center** style labelled **ピタッと密着** in the three-style banner.
-- Upper-edge stabilizing pad targets floating/gaping; lower-cup powernet supplies lift; wireless/full coverage.
-- Strongest Japanese consumer-fit experiment. Hold band/model/color constant and compare AAA with AA.
+### Japan — ZenMarket
 
-#### Nissen Petitshu soft-wire — AAA80
+Use one ZenMarket account for the five Japanese models plus planned sheet music. ZenMarket's official fee page says the service includes buying support and initial consolidation; current free storage is 60 days, with paid overstay to 90 days. **Order BPP330 first** because its 1–1.5 month production lead can consume most of the free window. Add other items late enough that they do not age out before BPP330 arrives. Do not create the international parcel until every item is in the warehouse.
 
-<https://www.nissen.co.jp/item/CFC0326A0002>
+- https://zenmarket.jp/en/fees.aspx
+- https://zenmarket.jp/en/shipping.aspx
 
-- L-shaped soft wire, crossover front, thin removable urethane pad, powernet cup and no side bone.
-- Minimally augmented wired control.
+### Korea — Delivered Korea “We Buy”
 
-#### Wacoal My Size Collection BPP330 — AAA80
+Submit the three Dorosiwa and two Comfortlab URLs in one paid batch and request one consolidated parcel. Delivered Korea's official workflow supports purchasing from multiple Korean stores, consolidation, and 45 days of free storage. This is preferred over separate direct checkouts because user time, not per-item fees, is the limiting cost.
 
-<https://store.wacoal.jp/disp/01_BPP330.html>
+- https://www.delivered.co.kr/en/how-delivered-korea-works
 
-- Individually graded wired 4/5 cup, side bones, pad pockets, no supplied pad.
-- Current listed lead time is roughly 1–1.5 months after order; submit first.
-- Expensive/slow but a stronger grading experiment than Wacoal's pooled cups.
+### Thailand — Sabina direct
 
-#### Wacoal BMM022 — AA–A80
+Place one Sabina/Central order only after both A36/80 options are live. Sabina advertises international shipping and its FAQ identifies DHL. If one style is unavailable, wait or substitute another Level 3 **construction in A36/80**, not another size.
 
-<https://store.wacoal.jp/disp/01_BMM022.html>
+### Hong Kong — buying agent/forwarder
 
-- Wired anti-gap/natural-line comparison without thick augmentation.
-- Pooled AA–A grade makes it less precise; informative, not a promised fit.
+SATAMI currently says direct U.S. shipping is suspended. Use one Hong Kong purchasing/forwarding service for both bras. Confirm it can purchase from SATAMI and deliver to the United States before paying. Do not assume the Hong Kong edition of Buyandship delivers to the U.S.; its official help center is centered on forwarding into Hong Kong and local branches vary.
 
-#### aimerfeel 超盛ブラ Seamless 152413 — A80
+### Customs/tariff rule
 
-<https://shop.aimerfeel.jp/shop/g/g1524133113/>
+A proxy solves merchant access and parcel consolidation, not import charges. Use accurate item descriptions, country of manufacture, and value. Do not ask a proxy to misdeclare. Treat duties as a later quoted cost; do not split useful research into many orders merely to chase speculative savings.
 
-- Younger-looking seamless Japanese push-up with high sides and aggressive integrated volume.
-- A80's nominal shell is larger than Jum measures, but thick internal padding may consume the space. Buy to study the volume map, with possible wearability as a bonus.
+## Try-on protocol: dynamic fit before teardown
 
-#### aimerfeel 楽ブラ 709513 — A80
+Keep tags on every returnable bra. For each size:
 
-<https://shop.aimerfeel.jp/shop/g/g7095138734/>
+1. Photograph front, 3/4, side, and top after ordinary placement.
+2. Raise arms, reach forward, bend, twist, sit, and walk for five minutes.
+3. Re-photograph without re-scooping.
+4. Score band stability, wire/root match, upper-edge contact, cup displacement, apex height, strap position, comfort, and silhouette under a thin knit.
+5. Record whether the cup is truly occupied or merely visually smooth. Both facts matter.
 
-- Softer, stretchier “comfortable but pretty” contrast from the same merchant.
-- Skip rather than substitute another size if A80 is unavailable.
+For retained construction specimens, record relaxed/stretched band, wire trace and spring, gore dimensions, cup perimeter/depth, apex position, pad-thickness map, slings/pockets, strap vectors, stretch directions, seam shape, and layer order. Do not cut a promising wearable until it has been copied non-destructively.
 
-## Japanese ordering logistics
+## Purchase decisions deliberately rejected
 
-Recommended route: <https://zenmarket.jp/en/>
+- **Liberty / JB3570:** removed. Attractive print cannot compensate for known wrong grading.
+- **Une Nana Cool 65-band bras:** removed after direct underbust measurement.
+- **Lulalu:** two 34AA returns already failed the comfort/wearability gate.
+- **Sabina Modern V B36:** do not size up the cup because A36 is absent.
+- **Dorosiwa Sage:** native product copy warns against it for AA/little upper fullness.
+- **Another stock Mésange:** known failure already supplied the lesson.
+- **Generic B/C fashion bras:** no purchase unless the construction itself justifies teardown.
+- **Ugly-but-fitting specimens:** they can inform the evidence base, but do not automatically earn a purchase. Wearability and trust are part of the research outcome.
 
-1. Submit BPP330 first because of its lead time.
-2. Submit both Nissen models, BMM022 and both aimerfeel models immediately after; repeat product code, size and color in each note.
-3. Add planned Japanese sheet music, wires and materials during the production wait.
-4. Do not form the export parcel until every item is at the warehouse. Confirm the proxy storage clock is long enough for BPP330.
-5. Create one consolidated international parcel.
+## Next evidence to collect after delivery
 
-Why an active proxy:
+- Which constructions remain flush after movement, not merely after scoop-and-swoop?
+- Is AAA80 or AA80 the better Japanese shell threshold?
+- Does wider-wire/smaller-cup SATAMI geometry resemble the France 36 trace?
+- Which padding map adds controllable upper fullness without an empty projected dome?
+- Does thick integrated padding consume enough A80 shell volume to become wearable?
+- Can the best natural-fit base accept modular pads for multiple garment silhouettes?
 
-- Wacoal and Nissen do not offer ordinary overseas checkout, and some retailers reject forwarding-company addresses.
-- WorldShopping is simple where available but states that fit-based returns/exchanges are not accepted.
-- A proxy solves merchant access and consolidation, not tariffs. Keep the itemized invoice and correct manufacturing origin; do not request gift marking or undervaluation.
-
-## Second-wave international specimens
-
-### Dorosiwa Filler Claire — 80A
-
-<https://m.dorosiwa.com/product/detail.html?product_no=2893>
-
-- Korean fashion-market option described for AA, small, outward/wide-set breasts.
-- Dorosiwa publishes an international-order route through its Korean site or customer service.
-- Buy only after the live 80A selector and international delivery are confirmed.
-
-### Sabina Modern V wired — 36A if live
-
-<https://www.sabina.co.th/en/category/modern-v>
-
-- Thai V-shaped side-padding architecture for inward volume.
-- Useful augmentation research, lower fit confidence: Sabina's A-cup chart assumes far more than a 3.5 cm difference.
-
-### SATAMI BR-05951 — 36A
-
-<https://www.online-satami.com/BR-05951-BK-Black-Invisible-T-shirt-Bra-Cup-A-D>
-
-- Extra-wide A-cup wire, low gore, graduated padding, pad pockets and underarm crescents.
-- Excellent geometry/padding teardown, but direct U.S. shipping is currently suspended. Hold until a Hong Kong proxy confirms a route.
-
-### ThirdLove All Day Lace or 24/7 Uplift Plunge — 34AA and 34A
-
-<https://www.thirdlove.com/collections/34aa-bras>
-
-- Attractive removable-pad fallback if TLBC or Aerie stock fails.
-- Architecturally redundant enough to defer in the first wave.
-
-### Little Women Tamsin — 34AAA and 34AA
-
-<https://www.littlewomen.com/products/little-women-tamsin-non-wired-lace-bra>
-
-- Exact tiny cups, lace, wireless construction and fixed medium padding.
-- High-apex coverage and paid international returns make it a second-wave bracket.
-
-## Removed and skipped
-
-- **All Liberty recommendations:** removed. The available grade is too imprecise; a cute non-fit would reduce confidence in the project.
-- **Une Nana Cool B65 styles:** skip. The band is wrong after the 78 cm underbust measurement; earlier 65A/B advice was based on an incorrect conversion.
-- **Generic B/C fashion bras:** do not buy merely for appearance unless a distinct construction justifies a teardown.
-- **Another stock Mésange:** skip. Its failure has already been demonstrated; use Jum's redraft as the baseline.
-- **Duplicate colors:** do not buy for research. Use the money and attention on a distinct architecture or controlled size bracket.
-
-## Try-on and teardown protocol
-
-Before washing or cutting:
-
-1. Try on with tags attached and photograph front, three-quarter, side and top views.
-2. Score band stability, wire/root match, upper-edge contact, apex height, strap position, silhouette, movement and comfort.
-3. For brackets, return the losing size unless its construction answers a different question.
-4. Record relaxed and stretched band, wire trace and spring, tip heights, gore dimensions, cup-shell perimeter, horizontal/vertical depth, apex position, pad-thickness map, pad-pocket/sling shapes, strap vectors, elastic tension, stretch direction and layer order.
-5. Preserve at least three references: best natural fit, best controllable augmentation, and best traceable cut-and-sew construction.
-
-## Evidence notes
-
-- Product sizes, descriptions, stock signals and return rules were checked on live official merchant pages or the named retailer on 2026-09-06. Stock and prices can change.
-- The specific fit rankings are hypotheses derived from Jum's measurements, her known Pepper fit, stated manufacturer construction, and the goal of future pattern development. They are not guarantees.
