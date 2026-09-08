@@ -224,13 +224,13 @@ Use one ZenMarket account for the five Japanese bras plus planned sheet music. Z
 
 Delivered Korea is a separate proxy/forwarder, not either retailer. It purchases Soul Mesh from ACUP and Dual Cool from Comfortlab, receives two domestic parcels, consolidates them, and sends one international parcel. Submit both URLs together and do not proceed if the batch shrinks to one bra.
 
-**Live order status (September 7, 2026):** Jum approved both Korean specimens and the two manual “We Buy” quotation requests were submitted successfully: ACUP Soul Mesh (80AA, Champagne Beige, quantity 1) and Comfortlab Dual Cool Nipple (size 90, Cool Beige, quantity 1). Both are still in **Submitted** status at $0: no quotation has arrived, nothing has been paid, and Delivered Korea has not yet placed either retailer order. Each request explicitly forbids size/color substitutions and add-on briefs. The next decision point is the combined quotation; use Standard handling so size, color, and quantity are inspected at receipt, then use the included unbox consolidation after both packages arrive. Account-linked request numbers remain private and are intentionally omitted from this public KB.
+**Current selection state (September 2026):** Jum approved the exact Korean specimens: ACUP Soul Mesh (80AA, Champagne Beige, quantity 1) and Comfortlab Dual Cool Nipple (size 90, Cool Beige, quantity 1). Treat these as active first-wave specimens and do not create duplicate requests. Size/color substitutions and add-on briefs are forbidden. Operational order, payment, account, and delivery details are intentionally kept out of this public KB; the next shared research milestone is warehouse receipt and then hands-on fit/construction assessment.
 
 - Process: https://docs.channel.io/dkhelpcenter/en/articles/How-to-Order-We-Buy--Ship-a199975e
 - Pricing: https://docs.channel.io/dkhelpcenter/en/articles/Pricing-Overview-720d6391
 - Calculator: https://www.delivered.co.kr/en/calculator
 
-Using the currently verified merchandise prices of ₩53,200 and ₩24,900, the prior conservative 1 kg / 30 × 20 × 10 cm model must be recalculated upward by about ₩300 versus the handoff. Keep the delivered estimate as a planning range of roughly **$101–108**, not a quote: merchandise about $58; known Comfortlab domestic postage plus any ACUP charge; about $6 standard handling for two store orders; economy international postage around $22; estimated U.S. duty around $12; and roughly $2–8 for carrier, conversion, or local-tax costs. Actual postage is known only after warehouse measurement, and customs assessment may differ.
+Proxy charges, payment records, and live ETAs are tracked privately rather than published. For planning methodology, final international postage is calculated from the greater of actual or dimensional weight after consolidation, and U.S. duty options appear only at international-shipping checkout.
 
 ### Thailand and Hong Kong — no first-wave checkout
 
